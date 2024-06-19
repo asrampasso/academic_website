@@ -4,27 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Bio
     url: /
     weight: 10
-  - name: Education
-    url: /#education
+  - name: Papers
+    url: /#papers
+    weight: 11
+  - name: Talks
+    url: /#talks
+    weight: 12
+  - name: News
+    url: /#news
+    weight: 13
+  - name: Experience
+    url: /#experience
     weight: 20
-  - name: Research Experience
-    url: /#research
+  - name: Projects
+    url: projects/
     weight: 30
-  - name: Publications
-    url: /#publications
+  - name: Teaching
+    url: teaching/
     weight: 40
-  - name: Teaching Experience
-    url: /#teaching_experience
-    weight: 50
-  - name: Teaching Portfolio
-    url: /#teaching_portfolio
-    weight: 60
-  - name: DEI Initiatives
-    url: /#dei
-    weight: 70
-  - name: About Me
-    url: /#about_me
-    weight: 80
