@@ -2,16 +2,16 @@
 
 education:
 
-- area: PhD Candidate in Entomology
+- area: PhD Candidate in Entomology (Expected May 2025)
   institution: Cornell University, Ithaca, NY, USA
 
-- area: Master of Science in Genetics and Evolutionary Biology
+- area: Master of Science in Genetics and Evolutionary Biology (2019)
   institution: Universidade de São Paulo (USP), São Paulo, SP, Brazil
 
-- area: Undergraduate Degree in Biology Education
+- area: Undergraduate Degree in Biology Education (2017)
   institution: Universidade de São Paulo (USP), São Paulo, SP, Brazil
 
-- area: Bachelor of Science in Biological Sciences
+- area: Bachelor of Science in Biological Sciences (2016)
   institution: Universidade de São Paulo (USP), São Paulo, SP, Brazil
 
 name: Augusto Santos Rampasso
