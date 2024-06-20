@@ -7,7 +7,7 @@ sections:
   content:
     button:
       text: Download CV
-      url: themes/theme-academic-cv/static/uploads/resume.pdf
+      url: /cv.pdf
     text: ""
     username: admin
   design:
