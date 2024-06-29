@@ -10,9 +10,9 @@ summary: Please, click here to access my experience as a Graduate Teaching Fello
 title: Graduate Teaching Fellow
 ---
 
-# Senior Graduate Lead Teaching Fellow (2024-2025)
+## Senior Graduate Lead Teaching Fellow (2024-2025)
 
-## Responsibilities:
+### Responsibilities:
  - Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).
  - Plan and facilitate the CTI Fellows Fall and Spring Retreats.
  - Plan the topics for the GET SET Institutes and U-Wide conference.
@@ -25,11 +25,11 @@ title: Graduate Teaching Fellow
  - Collect and analyze feedback on the CTI Fellows program from workshop participants and current fellows.
  - Make recommendations for future iterations of the CTI Fellows program.
  
-# Graduate Lead Teaching Fellow (2023 - 2024)
+## Graduate Lead Teaching Fellow (2023 - 2024)
 
 ![2023-2024](/2023-2024.png)
 
-## Responsibilities:
+### Responsibilities:
  - Attend bi-weekly meetings and lead one meeting per semester.
  - Mentor new teaching fellows in the process of developing and presenting teaching workshops (1-2 per semester).
  - Offer Professional Development Groups for the new teaching fellows.
@@ -37,36 +37,36 @@ title: Graduate Teaching Fellow
  - Conduct peer workshops observations.
  - Provide class observations and consultations for other graduate teaching assistants across campus (1 per semester).
  
-## Teaching Workshops Presented:
+### Teaching Workshops Presented:
 
-#### Refining and Editing your Teaching Philosophy Statement. 
+**Refining and Editing your Teaching Philosophy Statement.**
  - Spring 2024.
  - Facilitators: Augusto Santos Rampasso and Megan Keller. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
  - University-Wide Conference, Center for Teaching Innovation, Cornell University.
 
-#### Experiences on the Job Market. 
+**Experiences on the Job Market.**
  - Spring 2024.
  - Facilitators: Augusto Santos Rampasso, Kim Webb, Kristie LeBeau, and Marissa Gee. 
  - Supervisor: Dr. Derina Samuel. 
  - University-Wide Conference, Center for Teaching Innovation, Cornell University.
 
-#### Final Session: Discussion of an Action Plan. 
+**Final Session: Discussion of an Action Plan.** 
  - Fall 2023.
  - Facilitators: Augusto Santos Rampasso and Colby Gekko. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
  - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
 
-#### Supporting Student Learning as a TA. 
+**Supporting Student Learning as a TA.** 
  - Fall 2023.	
  - Facilitators: Augusto Santos Rampasso and Elijah Sheridan. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
  - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
 
 
-# Graduate Teaching Fellow (2022 - 2023)
+## Graduate Teaching Fellow (2022 - 2023)
 
-## Responsibilities:
+### Responsibilities:
  - Attend bi-weekly meetings.
  - Attend Professional Development Groups meetings.
  - Develop and present teaching workshops (1-2 per semester).
@@ -74,21 +74,21 @@ title: Graduate Teaching Fellow
  - Conduct peer workshops observations.
  - Present a microteaching demonstration.
 
-## Teaching Workshops Presented:
+### Teaching Workshops Presented:
 
-#### Inclusive Teaching Strategies in STEM.
+**Inclusive Teaching Strategies in STEM.**
  - Spring 2023.	 
  - Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
  - University-Wide Conference, Center for Teaching Innovation, Cornell University.
 
-#### Building an Inclusive Classroom Community. 
+**Building an Inclusive Classroom Community.** 
  - Spring 2023.	
  - Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
  - University-Wide Conference, Center for Teaching Innovation, Cornell University.
 
-#### Supporting Student Learning as a TA.
+**Supporting Student Learning as a TA.**
  - Fall 2022.	 
  - Facilitators: Kim Webb and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 

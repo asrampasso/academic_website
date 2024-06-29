@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:6119/</link>
+      <atom:link href="http://localhost:6119/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:6119/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:4321/</link>
+      <link>http://localhost:6119/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:4321/event/example/</link>
+      <link>http://localhost:6119/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/event/example/</guid>
+      <guid>http://localhost:6119/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Guest Lecturer</title>
-      <link>http://localhost:4321/teaching/get-started/</link>
+      <link>http://localhost:6119/teaching/get-started/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/get-started/</guid>
+      <guid>http://localhost:6119/teaching/get-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fall 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ENTOM2120: Insect Biology. Coleoptera Diversity and Identification. Cornell University.&lt;/li&gt;
@@ -47,36 +47,36 @@
     
     <item>
       <title>Teaching and DEI Statements</title>
-      <link>http://localhost:4321/teaching_portfolio/get-started/</link>
+      <link>http://localhost:6119/teaching_portfolio/get-started/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_portfolio/get-started/</guid>
-      <description>&lt;p&gt;Please, click here to access my &lt;a href=&#34;http://localhost:4321/Teaching_Statement.pdf&#34;&gt;Teaching Statement&lt;/a&gt; and my &lt;a href=&#34;http://localhost:4321/DEI_Statement.pdf&#34;&gt;DEI Statement.&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:6119/teaching_portfolio/get-started/</guid>
+      <description>&lt;p&gt;Please, click here to access my &lt;a href=&#34;http://localhost:6119/Teaching_Statement.pdf&#34;&gt;Teaching Statement&lt;/a&gt; and my &lt;a href=&#34;http://localhost:6119/DEI_Statement.pdf&#34;&gt;DEI Statement.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Courses Taught and Students Evaluations</title>
-      <link>http://localhost:4321/teaching_portfolio/second-brain/</link>
+      <link>http://localhost:6119/teaching_portfolio/second-brain/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_portfolio/second-brain/</guid>
+      <guid>http://localhost:6119/teaching_portfolio/second-brain/</guid>
       <description>&lt;h2 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:4321/PnP.pdf&#34;&gt;Plagues and People&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:6119/PnP.pdf&#34;&gt;Plagues and People&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;fall-2022&#34;&gt;Fall 2022&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:4321/IB.pdf&#34;&gt;Insect Biology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:6119/IB.pdf&#34;&gt;Insect Biology&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;spring-2022&#34;&gt;Spring 2022&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:4321/AE.pdf&#34;&gt;Alien Empire: The Bizarre Biology of Bugs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:6119/AE.pdf&#34;&gt;Alien Empire: The Bizarre Biology of Bugs&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;fall-2020&#34;&gt;Fall 2020&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:4321/HB.pdf&#34;&gt;Honey Bees: Their intriguing biology and interactions with humans through the ages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:6119/HB.pdf&#34;&gt;Honey Bees: Their intriguing biology and interactions with humans through the ages&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;spring-2020&#34;&gt;Spring 2020&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:4321/MBP.pdf&#34;&gt;Model-Based Phylogenetics and Hypothesis Testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:6119/MBP.pdf&#34;&gt;Model-Based Phylogenetics and Hypothesis Testing&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Graduate Teaching Assistant</title>
-      <link>http://localhost:4321/teaching/second-brain/</link>
+      <link>http://localhost:6119/teaching/second-brain/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/second-brain/</guid>
+      <guid>http://localhost:6119/teaching/second-brain/</guid>
       <description>&lt;h2 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h2&gt;
 &lt;h4 id=&#34;entom2100bsoc2101-plagues-and-people&#34;&gt;ENTOM2100/BSOC2101: Plagues and People.&lt;/h4&gt;
 &lt;ul&gt;
@@ -117,21 +117,21 @@
     
     <item>
       <title>Research Statement</title>
-      <link>http://localhost:4321/research/get-started/</link>
+      <link>http://localhost:6119/research/get-started/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/get-started/</guid>
-      <description>&lt;p&gt;Please, access my research statement in &lt;a href=&#34;http://localhost:4321/Research_Statement.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:6119/research/get-started/</guid>
+      <description>&lt;p&gt;Please, access my research statement in &lt;a href=&#34;http://localhost:6119/Research_Statement.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Graduate Teaching Fellow</title>
-      <link>http://localhost:4321/teaching/data-visualization/</link>
+      <link>http://localhost:6119/teaching/data-visualization/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/data-visualization/</guid>
-      <description>&lt;h1 id=&#34;senior-graduate-lead-teaching-fellow-2024-2025&#34;&gt;Senior Graduate Lead Teaching Fellow (2024-2025)&lt;/h1&gt;
-&lt;h2 id=&#34;responsibilities&#34;&gt;Responsibilities:&lt;/h2&gt;
+      <guid>http://localhost:6119/teaching/data-visualization/</guid>
+      <description>&lt;h2 id=&#34;senior-graduate-lead-teaching-fellow-2024-2025&#34;&gt;Senior Graduate Lead Teaching Fellow (2024-2025)&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).&lt;/li&gt;
 &lt;li&gt;Plan and facilitate the CTI Fellows Fall and Spring Retreats.&lt;/li&gt;
@@ -145,7 +145,7 @@
 &lt;li&gt;Collect and analyze feedback on the CTI Fellows program from workshop participants and current fellows.&lt;/li&gt;
 &lt;li&gt;Make recommendations for future iterations of the CTI Fellows program.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;graduate-lead-teaching-fellow-2023---2024&#34;&gt;Graduate Lead Teaching Fellow (2023 - 2024)&lt;/h1&gt;
+&lt;h2 id=&#34;graduate-lead-teaching-fellow-2023---2024&#34;&gt;Graduate Lead Teaching Fellow (2023 - 2024)&lt;/h2&gt;
 &lt;p&gt;
 
 
@@ -168,13 +168,13 @@
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp 400w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_2b895efaa57c6a0262cbfedb3b030e39.webp 760w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
+               src=&#34;http://localhost:6119/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
                width=&#34;720&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;responsibilities-1&#34;&gt;Responsibilities:&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities-1&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Attend bi-weekly meetings and lead one meeting per semester.&lt;/li&gt;
 &lt;li&gt;Mentor new teaching fellows in the process of developing and presenting teaching workshops (1-2 per semester).&lt;/li&gt;
@@ -183,37 +183,37 @@
 &lt;li&gt;Conduct peer workshops observations.&lt;/li&gt;
 &lt;li&gt;Provide class observations and consultations for other graduate teaching assistants across campus (1 per semester).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;teaching-workshops-presented&#34;&gt;Teaching Workshops Presented:&lt;/h2&gt;
-&lt;h4 id=&#34;refining-and-editing-your-teaching-philosophy-statement&#34;&gt;Refining and Editing your Teaching Philosophy Statement.&lt;/h4&gt;
+&lt;h3 id=&#34;teaching-workshops-presented&#34;&gt;Teaching Workshops Presented:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Refining and Editing your Teaching Philosophy Statement.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2024.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Megan Keller.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;experiences-on-the-job-market&#34;&gt;Experiences on the Job Market.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Experiences on the Job Market.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2024.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso, Kim Webb, Kristie LeBeau, and Marissa Gee.&lt;/li&gt;
 &lt;li&gt;Supervisor: Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;final-session-discussion-of-an-action-plan&#34;&gt;Final Session: Discussion of an Action Plan.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Final Session: Discussion of an Action Plan.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Colby Gekko.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;Essentials of Teaching, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;supporting-student-learning-as-a-ta&#34;&gt;Supporting Student Learning as a TA.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Supporting Student Learning as a TA.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Elijah Sheridan.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;Essentials of Teaching, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;graduate-teaching-fellow-2022---2023&#34;&gt;Graduate Teaching Fellow (2022 - 2023)&lt;/h1&gt;
-&lt;h2 id=&#34;responsibilities-2&#34;&gt;Responsibilities:&lt;/h2&gt;
+&lt;h2 id=&#34;graduate-teaching-fellow-2022---2023&#34;&gt;Graduate Teaching Fellow (2022 - 2023)&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities-2&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Attend bi-weekly meetings.&lt;/li&gt;
 &lt;li&gt;Attend Professional Development Groups meetings.&lt;/li&gt;
@@ -222,22 +222,22 @@
 &lt;li&gt;Conduct peer workshops observations.&lt;/li&gt;
 &lt;li&gt;Present a microteaching demonstration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;teaching-workshops-presented-1&#34;&gt;Teaching Workshops Presented:&lt;/h2&gt;
-&lt;h4 id=&#34;inclusive-teaching-strategies-in-stem&#34;&gt;Inclusive Teaching Strategies in STEM.&lt;/h4&gt;
+&lt;h3 id=&#34;teaching-workshops-presented-1&#34;&gt;Teaching Workshops Presented:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Inclusive Teaching Strategies in STEM.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso.&lt;/li&gt;
 &lt;li&gt;Supervisors: Brianna Zgurich and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;building-an-inclusive-classroom-community&#34;&gt;Building an Inclusive Classroom Community.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Building an Inclusive Classroom Community.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso.&lt;/li&gt;
 &lt;li&gt;Supervisors: Brianna Zgurich and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;supporting-student-learning-as-a-ta-1&#34;&gt;Supporting Student Learning as a TA.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Supporting Student Learning as a TA.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2022.&lt;/li&gt;
 &lt;li&gt;Facilitators: Kim Webb and Augusto Santos Rampasso.&lt;/li&gt;
@@ -249,9 +249,9 @@
     
     <item>
       <title>Research Experience</title>
-      <link>http://localhost:4321/research/teach-courses/</link>
+      <link>http://localhost:6119/research/teach-courses/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/teach-courses/</guid>
+      <guid>http://localhost:6119/research/teach-courses/</guid>
       <description>&lt;h2 id=&#34;cornell-university&#34;&gt;Cornell University&lt;/h2&gt;
 &lt;p&gt;
 
@@ -275,7 +275,7 @@
                /research/teach-courses/Cornell_huf0862bf3a241d287864245289791bed7_1813318_a4a8f7ed195c231ff3acf80240086592.webp 400w,
                /research/teach-courses/Cornell_huf0862bf3a241d287864245289791bed7_1813318_8e61c7b7146185a9ad31641a80fbb7ba.webp 760w,
                /research/teach-courses/Cornell_huf0862bf3a241d287864245289791bed7_1813318_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/teach-courses/Cornell_huf0862bf3a241d287864245289791bed7_1813318_a4a8f7ed195c231ff3acf80240086592.webp&#34;
+               src=&#34;http://localhost:6119/research/teach-courses/Cornell_huf0862bf3a241d287864245289791bed7_1813318_a4a8f7ed195c231ff3acf80240086592.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -310,7 +310,7 @@
                /research/teach-courses/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_442a64295cf385fa34d408ad662bcb45.webp 400w,
                /research/teach-courses/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_cba4bd33daf3613d090d1524eb0f6ef0.webp 760w,
                /research/teach-courses/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/teach-courses/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_442a64295cf385fa34d408ad662bcb45.webp&#34;
+               src=&#34;http://localhost:6119/research/teach-courses/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_442a64295cf385fa34d408ad662bcb45.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -357,7 +357,7 @@
                /research/teach-courses/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1df827f686d74eb5264d140146399399.webp 400w,
                /research/teach-courses/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_4bfd3e6edbf320094711333a838759fb.webp 760w,
                /research/teach-courses/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/teach-courses/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1df827f686d74eb5264d140146399399.webp&#34;
+               src=&#34;http://localhost:6119/research/teach-courses/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1df827f686d74eb5264d140146399399.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -374,9 +374,9 @@
     
     <item>
       <title>Other Teaching Experiences</title>
-      <link>http://localhost:4321/teaching/project-management/</link>
+      <link>http://localhost:6119/teaching/project-management/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/project-management/</guid>
+      <guid>http://localhost:6119/teaching/project-management/</guid>
       <description>&lt;h2 id=&#34;adult-education-volunteer-teacher&#34;&gt;Adult Education Volunteer Teacher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2017 – Spring 2019.&lt;/li&gt;
@@ -394,17 +394,17 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:4321/projects/</link>
+      <link>http://localhost:6119/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/</guid>
+      <guid>http://localhost:6119/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:4321/post/get-started/</link>
+      <link>http://localhost:6119/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/get-started/</guid>
+      <guid>http://localhost:6119/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -488,33 +488,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:4321/project/pandas/</link>
+      <link>http://localhost:6119/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pandas/</guid>
+      <guid>http://localhost:6119/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:4321/project/pytorch/</link>
+      <link>http://localhost:6119/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pytorch/</guid>
+      <guid>http://localhost:6119/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:4321/project/scikit/</link>
+      <link>http://localhost:6119/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/scikit/</guid>
+      <guid>http://localhost:6119/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:4321/post/second-brain/</link>
+      <link>http://localhost:6119/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/second-brain/</guid>
+      <guid>http://localhost:6119/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -616,9 +616,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:4321/post/data-visualization/</link>
+      <link>http://localhost:6119/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/data-visualization/</guid>
+      <guid>http://localhost:6119/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -629,7 +629,7 @@
 
 
 
-&lt;div id=&#34;chart-952874361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-476821953&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -647,7 +647,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-952874361&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-476821953&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -822,9 +822,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:4321/teaching_portfolio/data-visualization/</link>
+      <link>http://localhost:6119/teaching_portfolio/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_portfolio/data-visualization/</guid>
+      <guid>http://localhost:6119/teaching_portfolio/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -835,7 +835,7 @@ Crash --&amp;gt; [*]
 
 
 
-&lt;div id=&#34;chart-824736195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-164758293&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -853,7 +853,7 @@ Crash --&amp;gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-824736195&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-164758293&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1028,9 +1028,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:4321/post/teach-courses/</link>
+      <link>http://localhost:6119/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/teach-courses/</guid>
+      <guid>http://localhost:6119/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1083,7 +1083,7 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:6119/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1144,9 +1144,9 @@ data.head()
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:4321/teaching_portfolio/teach-courses/</link>
+      <link>http://localhost:6119/teaching_portfolio/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_portfolio/teach-courses/</guid>
+      <guid>http://localhost:6119/teaching_portfolio/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1199,7 +1199,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/teaching_portfolio/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:6119/teaching_portfolio/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1260,17 +1260,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/experience/</link>
+      <link>http://localhost:6119/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/experience/</guid>
+      <guid>http://localhost:6119/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:4321/post/project-management/</link>
+      <link>http://localhost:6119/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/project-management/</guid>
+      <guid>http://localhost:6119/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1343,9 +1343,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:4321/teaching_portfolio/project-management/</link>
+      <link>http://localhost:6119/teaching_portfolio/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching_portfolio/project-management/</guid>
+      <guid>http://localhost:6119/teaching_portfolio/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1418,10 +1418,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:4321/publication/preprint/</link>
+      <link>http://localhost:6119/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:4321/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:6119/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:6119/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1434,9 +1434,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:4321/publication/journal-article/</link>
+      <link>http://localhost:6119/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <guid>http://localhost:6119/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1455,9 +1455,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:4321/publication/conference-paper/</link>
+      <link>http://localhost:6119/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/conference-paper/</guid>
+      <guid>http://localhost:6119/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

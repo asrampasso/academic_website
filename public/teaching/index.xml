@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Experience | Hugo Academic CV Theme</title>
-    <link>http://localhost:4321/teaching/</link>
-      <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:6119/teaching/</link>
+      <atom:link href="http://localhost:6119/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching Experience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:6119/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching Experience</title>
-      <link>http://localhost:4321/teaching/</link>
+      <link>http://localhost:6119/teaching/</link>
     </image>
     
     <item>
       <title>Guest Lecturer</title>
-      <link>http://localhost:4321/teaching/get-started/</link>
+      <link>http://localhost:6119/teaching/get-started/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/get-started/</guid>
+      <guid>http://localhost:6119/teaching/get-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fall 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ENTOM2120: Insect Biology. Coleoptera Diversity and Identification. Cornell University.&lt;/li&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Graduate Teaching Assistant</title>
-      <link>http://localhost:4321/teaching/second-brain/</link>
+      <link>http://localhost:6119/teaching/second-brain/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/second-brain/</guid>
+      <guid>http://localhost:6119/teaching/second-brain/</guid>
       <description>&lt;h2 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h2&gt;
 &lt;h4 id=&#34;entom2100bsoc2101-plagues-and-people&#34;&gt;ENTOM2100/BSOC2101: Plagues and People.&lt;/h4&gt;
 &lt;ul&gt;
@@ -69,11 +69,11 @@
     
     <item>
       <title>Graduate Teaching Fellow</title>
-      <link>http://localhost:4321/teaching/data-visualization/</link>
+      <link>http://localhost:6119/teaching/data-visualization/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/data-visualization/</guid>
-      <description>&lt;h1 id=&#34;senior-graduate-lead-teaching-fellow-2024-2025&#34;&gt;Senior Graduate Lead Teaching Fellow (2024-2025)&lt;/h1&gt;
-&lt;h2 id=&#34;responsibilities&#34;&gt;Responsibilities:&lt;/h2&gt;
+      <guid>http://localhost:6119/teaching/data-visualization/</guid>
+      <description>&lt;h2 id=&#34;senior-graduate-lead-teaching-fellow-2024-2025&#34;&gt;Senior Graduate Lead Teaching Fellow (2024-2025)&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).&lt;/li&gt;
 &lt;li&gt;Plan and facilitate the CTI Fellows Fall and Spring Retreats.&lt;/li&gt;
@@ -87,7 +87,7 @@
 &lt;li&gt;Collect and analyze feedback on the CTI Fellows program from workshop participants and current fellows.&lt;/li&gt;
 &lt;li&gt;Make recommendations for future iterations of the CTI Fellows program.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;graduate-lead-teaching-fellow-2023---2024&#34;&gt;Graduate Lead Teaching Fellow (2023 - 2024)&lt;/h1&gt;
+&lt;h2 id=&#34;graduate-lead-teaching-fellow-2023---2024&#34;&gt;Graduate Lead Teaching Fellow (2023 - 2024)&lt;/h2&gt;
 &lt;p&gt;
 
 
@@ -110,13 +110,13 @@
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp 400w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_2b895efaa57c6a0262cbfedb3b030e39.webp 760w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
+               src=&#34;http://localhost:6119/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
                width=&#34;720&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;responsibilities-1&#34;&gt;Responsibilities:&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities-1&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Attend bi-weekly meetings and lead one meeting per semester.&lt;/li&gt;
 &lt;li&gt;Mentor new teaching fellows in the process of developing and presenting teaching workshops (1-2 per semester).&lt;/li&gt;
@@ -125,37 +125,37 @@
 &lt;li&gt;Conduct peer workshops observations.&lt;/li&gt;
 &lt;li&gt;Provide class observations and consultations for other graduate teaching assistants across campus (1 per semester).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;teaching-workshops-presented&#34;&gt;Teaching Workshops Presented:&lt;/h2&gt;
-&lt;h4 id=&#34;refining-and-editing-your-teaching-philosophy-statement&#34;&gt;Refining and Editing your Teaching Philosophy Statement.&lt;/h4&gt;
+&lt;h3 id=&#34;teaching-workshops-presented&#34;&gt;Teaching Workshops Presented:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Refining and Editing your Teaching Philosophy Statement.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2024.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Megan Keller.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;experiences-on-the-job-market&#34;&gt;Experiences on the Job Market.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Experiences on the Job Market.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2024.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso, Kim Webb, Kristie LeBeau, and Marissa Gee.&lt;/li&gt;
 &lt;li&gt;Supervisor: Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;final-session-discussion-of-an-action-plan&#34;&gt;Final Session: Discussion of an Action Plan.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Final Session: Discussion of an Action Plan.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Colby Gekko.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;Essentials of Teaching, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;supporting-student-learning-as-a-ta&#34;&gt;Supporting Student Learning as a TA.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Supporting Student Learning as a TA.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Augusto Santos Rampasso and Elijah Sheridan.&lt;/li&gt;
 &lt;li&gt;Supervisors: Kim Webb and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;Essentials of Teaching, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;graduate-teaching-fellow-2022---2023&#34;&gt;Graduate Teaching Fellow (2022 - 2023)&lt;/h1&gt;
-&lt;h2 id=&#34;responsibilities-2&#34;&gt;Responsibilities:&lt;/h2&gt;
+&lt;h2 id=&#34;graduate-teaching-fellow-2022---2023&#34;&gt;Graduate Teaching Fellow (2022 - 2023)&lt;/h2&gt;
+&lt;h3 id=&#34;responsibilities-2&#34;&gt;Responsibilities:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Attend bi-weekly meetings.&lt;/li&gt;
 &lt;li&gt;Attend Professional Development Groups meetings.&lt;/li&gt;
@@ -164,22 +164,22 @@
 &lt;li&gt;Conduct peer workshops observations.&lt;/li&gt;
 &lt;li&gt;Present a microteaching demonstration.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;teaching-workshops-presented-1&#34;&gt;Teaching Workshops Presented:&lt;/h2&gt;
-&lt;h4 id=&#34;inclusive-teaching-strategies-in-stem&#34;&gt;Inclusive Teaching Strategies in STEM.&lt;/h4&gt;
+&lt;h3 id=&#34;teaching-workshops-presented-1&#34;&gt;Teaching Workshops Presented:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Inclusive Teaching Strategies in STEM.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso.&lt;/li&gt;
 &lt;li&gt;Supervisors: Brianna Zgurich and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;building-an-inclusive-classroom-community&#34;&gt;Building an Inclusive Classroom Community.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Building an Inclusive Classroom Community.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Spring 2023.&lt;/li&gt;
 &lt;li&gt;Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso.&lt;/li&gt;
 &lt;li&gt;Supervisors: Brianna Zgurich and Dr. Derina Samuel.&lt;/li&gt;
 &lt;li&gt;University-Wide Conference, Center for Teaching Innovation, Cornell University.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;supporting-student-learning-as-a-ta-1&#34;&gt;Supporting Student Learning as a TA.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Supporting Student Learning as a TA.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2022.&lt;/li&gt;
 &lt;li&gt;Facilitators: Kim Webb and Augusto Santos Rampasso.&lt;/li&gt;
@@ -191,9 +191,9 @@
     
     <item>
       <title>Other Teaching Experiences</title>
-      <link>http://localhost:4321/teaching/project-management/</link>
+      <link>http://localhost:6119/teaching/project-management/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/project-management/</guid>
+      <guid>http://localhost:6119/teaching/project-management/</guid>
       <description>&lt;h2 id=&#34;adult-education-volunteer-teacher&#34;&gt;Adult Education Volunteer Teacher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2017 – Spring 2019.&lt;/li&gt;
