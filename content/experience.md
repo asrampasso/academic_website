@@ -4,7 +4,7 @@ design:
   spacing: 5rem
 sections:
 - block: resume-experience
-  content:
+  content: 
     username: admin
   design:
     date_format: January 2006

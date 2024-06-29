@@ -51,4 +51,4 @@ role: PhD Candidate
 
 ## About Me
 
-Augusto Santos Rampasso is a PhD candidate in Entomology at Cornell University. His research interests taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. He integrates field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species.
+Augusto Santos Rampasso is a PhD candidate in Entomology at Cornell University. His research interests taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. He integrates field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species. His goal is to obtain a detailed overview of the diversification process, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.
