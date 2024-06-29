@@ -12,7 +12,7 @@ title: Graduate Teaching Fellow
 
 ## Senior Graduate Lead Teaching Fellow (2024-2025)
 
-### Responsibilities:
+### Responsibilities
  - Serve on the CTI Fellows selection committee (review applications and conduct interviews for all applicants).
  - Plan and facilitate the CTI Fellows Fall and Spring Retreats.
  - Plan the topics for the GET SET Institutes and U-Wide conference.
@@ -25,11 +25,13 @@ title: Graduate Teaching Fellow
  - Collect and analyze feedback on the CTI Fellows program from workshop participants and current fellows.
  - Make recommendations for future iterations of the CTI Fellows program.
  
+### Teaching Workshops Presented
+ 
 ## Graduate Lead Teaching Fellow (2023 - 2024)
 
 ![2023-2024](/2023-2024.png)
 
-### Responsibilities:
+### Responsibilities
  - Attend bi-weekly meetings and lead one meeting per semester.
  - Mentor new teaching fellows in the process of developing and presenting teaching workshops (1-2 per semester).
  - Offer Professional Development Groups for the new teaching fellows.
@@ -37,7 +39,7 @@ title: Graduate Teaching Fellow
  - Conduct peer workshops observations.
  - Provide class observations and consultations for other graduate teaching assistants across campus (1 per semester).
  
-### Teaching Workshops Presented:
+### Teaching Workshops Presented
 
 **Refining and Editing your Teaching Philosophy Statement.**
  - Spring 2024.
@@ -66,7 +68,7 @@ title: Graduate Teaching Fellow
 
 ## Graduate Teaching Fellow (2022 - 2023)
 
-### Responsibilities:
+### Responsibilities
  - Attend bi-weekly meetings.
  - Attend Professional Development Groups meetings.
  - Develop and present teaching workshops (1-2 per semester).
@@ -74,7 +76,7 @@ title: Graduate Teaching Fellow
  - Conduct peer workshops observations.
  - Present a microteaching demonstration.
 
-### Teaching Workshops Presented:
+### Teaching Workshops Presented
 
 **Inclusive Teaching Strategies in STEM.**
  - Spring 2023.	 
