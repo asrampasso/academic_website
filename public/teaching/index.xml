@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Experience | Hugo Academic CV Theme</title>
-    <link>http://localhost:6119/teaching/</link>
-      <atom:link href="http://localhost:6119/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/teaching/</link>
+      <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching Experience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:6119/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching Experience</title>
-      <link>http://localhost:6119/teaching/</link>
+      <link>http://localhost:4321/teaching/</link>
     </image>
     
     <item>
       <title>Guest Lecturer</title>
-      <link>http://localhost:6119/teaching/get-started/</link>
+      <link>http://localhost:4321/teaching/get-started/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6119/teaching/get-started/</guid>
+      <guid>http://localhost:4321/teaching/get-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Fall 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ENTOM2120: Insect Biology. Coleoptera Diversity and Identification. Cornell University.&lt;/li&gt;
@@ -26,39 +26,40 @@
     
     <item>
       <title>Graduate Teaching Assistant</title>
-      <link>http://localhost:6119/teaching/second-brain/</link>
+      <link>http://localhost:4321/teaching/second-brain/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6119/teaching/second-brain/</guid>
-      <description>&lt;h2 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h2&gt;
-&lt;h4 id=&#34;entom2100bsoc2101-plagues-and-people&#34;&gt;ENTOM2100/BSOC2101: Plagues and People.&lt;/h4&gt;
+      <guid>http://localhost:4321/teaching/second-brain/</guid>
+      <description>&lt;p&gt;If you would like to access more details about the courses I taught and my student evaluations, please check out my Teaching Portfolio.&lt;/p&gt;
+&lt;h2 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h2&gt;
+&lt;h4 id=&#34;plagues-and-people&#34;&gt;Plagues and People&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;191 students.&lt;/li&gt;
 &lt;li&gt;Department of Entomology, Cornell University.&lt;/li&gt;
 &lt;li&gt;Instructors: Dr. Laura Harrington, Dr. Courtney Murdock, and Dr. Emilie Gray.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;fall-2022&#34;&gt;Fall 2022&lt;/h2&gt;
-&lt;h4 id=&#34;entom2120-insect-biology&#34;&gt;ENTOM2120: Insect Biology.&lt;/h4&gt;
+&lt;h4 id=&#34;insect-biology&#34;&gt;Insect Biology&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;34 students.&lt;/li&gt;
 &lt;li&gt;Department of Entomology, Cornell University.&lt;/li&gt;
 &lt;li&gt;Instructor: Dr. John Sanderson.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;spring-2022&#34;&gt;Spring 2022&lt;/h2&gt;
-&lt;h4 id=&#34;entom20102011-alien-empire-the-bizarre-biology-of-bugs&#34;&gt;ENTOM2010/2011: Alien Empire: The Bizarre Biology of Bugs.&lt;/h4&gt;
+&lt;h4 id=&#34;alien-empire-the-bizarre-biology-of-bugs&#34;&gt;Alien Empire: The Bizarre Biology of Bugs&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;110 students.&lt;/li&gt;
 &lt;li&gt;Department of Entomology, Cornell University.&lt;/li&gt;
 &lt;li&gt;Instructors: Dr. Marina Caillaud and Dr. Bryan Danforth.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;fall-2020&#34;&gt;Fall 2020&lt;/h2&gt;
-&lt;h4 id=&#34;entom20302031-honey-bees-their-intriguing-biology-and-interactions-with-humans-through-the-ages&#34;&gt;ENTOM2030/2031: Honey Bees: Their intriguing biology and interactions with humans through the ages.&lt;/h4&gt;
+&lt;h4 id=&#34;honey-bees-their-intriguing-biology-and-interactions-with-humans-through-the-ages&#34;&gt;Honey Bees: Their intriguing biology and interactions with humans through the ages&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;186 students.&lt;/li&gt;
 &lt;li&gt;Department of Entomology, Cornell University.&lt;/li&gt;
 &lt;li&gt;Instructors: Dr. Marina Caillaud and Dr. David Peck.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;spring-2020&#34;&gt;Spring 2020&lt;/h2&gt;
-&lt;h4 id=&#34;entom4610-model-based-phylogenetics-and-hypothesis-testing&#34;&gt;ENTOM4610: Model-Based Phylogenetics and Hypothesis Testing.&lt;/h4&gt;
+&lt;h4 id=&#34;model-based-phylogenetics-and-hypothesis-testing&#34;&gt;Model-Based Phylogenetics and Hypothesis Testing&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;21 students.&lt;/li&gt;
 &lt;li&gt;Department of Entomology, Cornell University.&lt;/li&gt;
@@ -69,9 +70,9 @@
     
     <item>
       <title>Graduate Teaching Fellow</title>
-      <link>http://localhost:6119/teaching/data-visualization/</link>
+      <link>http://localhost:4321/teaching/data-visualization/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6119/teaching/data-visualization/</guid>
+      <guid>http://localhost:4321/teaching/data-visualization/</guid>
       <description>&lt;h2 id=&#34;senior-graduate-lead-teaching-fellow-2024-2025&#34;&gt;Senior Graduate Lead Teaching Fellow (2024-2025)&lt;/h2&gt;
 &lt;h3 id=&#34;responsibilities&#34;&gt;Responsibilities&lt;/h3&gt;
 &lt;ul&gt;
@@ -111,7 +112,7 @@
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp 400w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_2b895efaa57c6a0262cbfedb3b030e39.webp 760w,
                /teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_1200x1200_fit_q80_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:6119/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
+               src=&#34;http://localhost:4321/teaching/data-visualization/2023-2024_hub1fab500f2be8a20ff1caf78f71815cf_858046_b32fe9d27e2b6ece3a27c5de4882861a.webp&#34;
                width=&#34;720&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,9 +193,9 @@
     
     <item>
       <title>Other Teaching Experiences</title>
-      <link>http://localhost:6119/teaching/project-management/</link>
+      <link>http://localhost:4321/teaching/project-management/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6119/teaching/project-management/</guid>
+      <guid>http://localhost:4321/teaching/project-management/</guid>
       <description>&lt;h2 id=&#34;adult-education-volunteer-teacher&#34;&gt;Adult Education Volunteer Teacher&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2017 – Spring 2019.&lt;/li&gt;

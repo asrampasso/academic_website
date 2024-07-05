@@ -47,5 +47,5 @@ image:
 **Undergraduate Researcher**
   - 2014
   - Project title: Genetic and phenotypic differentiation suggests incipient speciation within Drosophila arizonae (Diptera: Drosophilidae). 
-  - Advisors: Drs. Maxi P. Richmond and Therese A. Markow.
+  - Advisors: Dr. Maxi Richmond and Dr. Therese Markow.
 
