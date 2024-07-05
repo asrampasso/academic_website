@@ -2,9 +2,6 @@
 authors:
 - admin
 date: "2024-06-25"
-image:
-  caption: A view of the sunset in Waikiki, Oahu.
-
 
 title: "Presentations in Scientific Meetings"
 
