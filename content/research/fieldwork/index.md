@@ -27,7 +27,7 @@ Collected at the Waikamoi Forest Reserve and Iao valley by net sweeping.
 Collected in multiple sites around Denver and Boulder by net sweeping.
 ![2023_Colorado](/2023_Colorado.jpg)
 
-### New York
+### New Mexico
 Collected in multiple sites around Santa Fe, Jemez Pueblo and Taos by net sweeping.
 ![2023_New_Mexico](/2023_New_Mexico.jpg)
 

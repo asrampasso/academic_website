@@ -7,7 +7,6 @@ image:
 
 
 title: "Presentations in Scientific Meetings"
----
 
 summary: Please, click here to access my presentations in academic meetings.
 
