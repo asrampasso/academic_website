@@ -23,7 +23,7 @@ Collected at the Waikamoi Forest Reserve and Iao valley by net sweeping.
 
 ## 2023 - Continental US
 
-### New York
+### Colorado
 Collected in multiple sites around Denver and Boulder by net sweeping.
 ![2023_Colorado](/2023_Colorado.jpg)
 
