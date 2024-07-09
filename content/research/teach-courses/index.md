@@ -21,6 +21,8 @@ image:
   - Dissertation title: Patterns of Diversification of Hawaiian Drosophilidae (Diptera). Department of Entomology, Cornell University.
   - Major Professor: Dr. Patrick O'Grady.
 
+--- 
+
 ## Universidade de São Paulo (USP)
 
 ![USP](/USP.jpg)
@@ -39,7 +41,9 @@ image:
   - 2011 – 2013
   - Project title: Establishment of double mutant strains of Drosophila melanogaster (Diptera, Drosophilidae) for teaching purposes. 
   - Major Professor: Dr. Carlos Ribeiro Vilela. 
- 
+
+--- 
+
 ## University of California, San Diego (UCSD)
 
 ![UCSD](/UCSD.jpg)

@@ -159,5 +159,8 @@
   </url><url>
     <loc>http://localhost:4321/publication/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/timeline/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

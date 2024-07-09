@@ -16,9 +16,12 @@ title: Other Teaching Experiences
  - Subject: Science. 
  - Escola Nova Lourenco Castanho, São Paulo, Brazil.
 
+---
+
 ## High School Teaching Assistant
 
  - Fall 2015 – Fall 2017.
  - Subject: Biology. 
  - Escola Nova Lourenco Castanho, São Paulo, Brazil.
 
+---

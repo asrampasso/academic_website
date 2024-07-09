@@ -8,6 +8,7 @@ image:
 summary: Please, click here to access my experience as a Graduate Teaching Fellows in the Center for Teaching Innovation at Cornell University.
 
 title: Graduate Teaching Fellow
+
 ---
 
 ## Senior Graduate Lead Teaching Fellow (2024-2025)
@@ -26,7 +27,9 @@ title: Graduate Teaching Fellow
  - Make recommendations for future iterations of the CTI Fellows program.
  
 ### Teaching Workshops Presented
- 
+
+---
+
 ## Graduate Lead Teaching Fellow (2023 - 2024)
 
 ![2023-2024](/2023-2024.png)
@@ -65,6 +68,7 @@ title: Graduate Teaching Fellow
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
  - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
 
+---
 
 ## Graduate Teaching Fellow (2022 - 2023)
 
@@ -95,3 +99,5 @@ title: Graduate Teaching Fellow
  - Facilitators: Kim Webb and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
  - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
+ 
+---

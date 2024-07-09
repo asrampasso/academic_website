@@ -21,6 +21,8 @@ summary: Please, click here to access my presentations in academic meetings.
 
 **Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Drosophila and related genera. 12th Annual Cornell Entomology Symposium. Ithaca, New York, USA.
 
+---
+
 ## Contributed
 
 ### 2023
@@ -33,8 +35,12 @@ summary: Please, click here to access my presentations in academic meetings.
 
 **Rampasso AS**, O’Grady PM. Standardized terminology and visual atlas of the external morphology and terminalia for the genus Scaptomyza (Diptera: Drosophilidae). 4th Drosophila Genitalia Meeting. Virtual Conference.
 
+---
+
 ## Poster
 
 ### 2017
 
 **Rampasso AS**, Vilela CR. Fruits from three ornamental plants as breeding sites of invasive and native Drosophilidae (Diptera) in the capital of the state of São Paulo, Brazil. X Symposium on Ecology, Genetics and Evolution of Drosophila. Ouro Preto, Minas Gerais, Brazil.
+
+---

@@ -15,11 +15,15 @@ summary: Please, click here to access more details about my fieldwork experience
 Collected in multiple sites around Ithaca by net sweeping.
 ![2022_New_York](/2024_New_York.jpg)
 
+---
+
 ## 2023 - Hawaiian Archipelago
 
 ### Maui
 Collected at the Waikamoi Forest Reserve and Iao valley by net sweeping.
 ![2023_Maui](/2023_Maui.jpg)
+
+---
 
 ## 2023 - Continental US
 
@@ -35,17 +39,23 @@ Collected in multiple sites around Santa Fe, Jemez Pueblo and Taos by net sweepi
 Collected in multiple sites around Ithaca by net sweeping.
 ![2023_New_York](/2023_New_York.jpg)
 
+---
+
 ## 2022 - Hawaiian Archipelago
 
 ### Maui
 Collected at the Waikamoi Forest Reserve by net sweeping.
 ![2022_Maui](/2022_Maui.jpg)
 
+---
+
 ## 2022 - Continental US
 
 ### New York
 Collected in multiple sites around Ithaca by net sweeping.
 ![2022_New_York](/2022_New_York.jpg)
+
+---
 
 ## 2021 - Continental US
 
@@ -56,6 +66,8 @@ Collected in multiple sites around Tucson, Sedona, and Flagstaff by net sweeping
 ### New York
 Collected in multiple sites around Ithaca by net sweeping.
 ![2021_New_York](/2021_New_York.jpg)
+
+---
 
 ## 2020 - Hawaiian Archipelago
 
@@ -70,3 +82,5 @@ Collected at the Waikamoi Forest Reserve by net sweeping.
 ### Oahu
 Collected at the Manoa Cliff trail by net sweeping.
 ![2020_Oahu](/2020_Oahu.jpg)
+
+---
