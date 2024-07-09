@@ -46,7 +46,7 @@ Figure 3. A: Collection sites of Drosophila arizonae. The numbers represent popu
 
 ---
 
-### Inference of Evolutionary Patterns through Phylogenies
+## Inference of Evolutionary Patterns through Phylogenies
 
 I used a recently published phylogeny based on 155 whole genomes (Suvorov et al., 2022) to investigate the evolutionary patterns that drove the impressive morphological variation in Drosophilidae male terminalia (Figure 4). I analyzed two periphallic structures responsible for grasping the female terminalia and securing a tight genital coupling. I proposed categories to describe the main patterns of morphological variation of two periphallic structures, reconstructed their states in the ancestor of the family, and inferred how these structures diversified across multiple genera and species groups (Figure 4). Our results provided insights into the association between those characters and their possible role in copulation (Rampasso & O’Grady, submitted).
 
