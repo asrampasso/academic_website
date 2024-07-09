@@ -117,7 +117,7 @@
     </item>
     
     <item>
-      <title>Research</title>
+      <title>Research Experience</title>
       <link>http://localhost:4321/research/get-started/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/get-started/</guid>
@@ -198,7 +198,7 @@
 &lt;/p&gt;
 &lt;p&gt;Figure 3. A: Collection sites of Drosophila arizonae. The numbers represent populations with molecular data, and the letters represent populations with both molecular and morphological data. 2: Representation of three geographic barriers across mainland Mexico.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;inference-of-evolutionary-patterns-through-phylogenies&#34;&gt;Inference of Evolutionary Patterns through Phylogenies&lt;/h3&gt;
+&lt;h2 id=&#34;inference-of-evolutionary-patterns-through-phylogenies&#34;&gt;Inference of Evolutionary Patterns through Phylogenies&lt;/h2&gt;
 &lt;p&gt;I used a recently published phylogeny based on 155 whole genomes (Suvorov et al., 2022) to investigate the evolutionary patterns that drove the impressive morphological variation in Drosophilidae male terminalia (Figure 4). I analyzed two periphallic structures responsible for grasping the female terminalia and securing a tight genital coupling. I proposed categories to describe the main patterns of morphological variation of two periphallic structures, reconstructed their states in the ancestor of the family, and inferred how these structures diversified across multiple genera and species groups (Figure 4). Our results provided insights into the association between those characters and their possible role in copulation (Rampasso &amp;amp; O’Grady, submitted).&lt;/p&gt;
 &lt;p&gt;Although the Suvorov et al. (2022) phylogeny provides insight into the evolution of 155 taxa, this only represents a fraction of the ~4,400 described species of Drosophilidae. The Petrov Lab at Stanford University established partnerships with multiple research groups across the world to expand their initial effort and reconstruct a broader whole genome phylogeny to the family, with thousands of taxa. The O’Grady Lab is part of the project, and I am a collaborator. I have helped to supply over 900 Drosophilidae strains, including Scaptomyza species, from the National Drosophila Species Stock Center, the O’Grady Lab ethanol collection, and personal collections.&lt;/p&gt;
 &lt;p&gt;
@@ -354,7 +354,7 @@
     </item>
     
     <item>
-      <title>Research Experience</title>
+      <title>Professional Affiliations</title>
       <link>http://localhost:4321/research/teach-courses/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/teach-courses/</guid>
@@ -1118,7 +1118,7 @@
 
 
 
-&lt;div id=&#34;chart-821493657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-369742581&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1136,7 +1136,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-821493657&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-369742581&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

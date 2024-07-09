@@ -6,7 +6,7 @@ image:
   caption: A view of the sunset in Waikiki, Oahu.
 
 
-title: "Research"
+title: "Research Experience"
 
 summary: Please, click here to access more information about my research experience.
 

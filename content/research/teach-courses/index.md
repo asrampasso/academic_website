@@ -3,9 +3,9 @@ authors:
 - admin
 date: "2024-06-27"
 
-title: "Research Experience"
+title: "Professional Affiliations"
 
-summary: Please, click here to read more about my research experience and professional affiliations.
+summary: Please, click here to access mroe information about my professional affiliations.
 
 image:
   caption: Augusto Santos Rampasso contemplating the view of West Maui from the East Maui Volcano.

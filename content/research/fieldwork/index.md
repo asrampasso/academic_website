@@ -5,7 +5,7 @@ date: "2024-06-26"
 
 title: "Fieldwork Experience"
 
-summary: Please, click here to access more details about my fieldwork experience.
+summary: Please, click here to access more information about my fieldwork experience.
 
 ---
 
