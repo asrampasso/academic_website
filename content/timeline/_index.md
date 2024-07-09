@@ -30,10 +30,10 @@ gantt
  - I conducted independent research projects under the supervision of Dr. Carlos Vilela.
 
 **USP****: [Universidade de São Paulo](https://www5.usp.br/) - [Biology Education (Licenciatura)](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=41&codcur=41012&codhab=304&tipo=N)
- - In sequence, I fulfilled the requirements of the Undergraduate Degree in Biology Education (Licenciatura).
+ - In sequence, I fulfilled the requirements of the Undergraduate Degree in Biology Education (Licenciatura), where I studied theories of education while gaining practical teaching experience.
  
 **High School Teaching Assistant**
- - I worked as a High School Teaching Assistant of Biology at the Escola Nova Lourenço Castanho.
+ - I started working as a High School Teaching Assistant of Biology at the Escola Nova Lourenço Castanho during my Bachelor of Science degree. The experience of closely following the students’ personal growth and intellectual development inspired me to pursue the Undergraduate Degree in Biology Education.
 
 ## Brazil Scientific Mobility Program
 
@@ -80,7 +80,7 @@ gantt
  - I obtained my Master of Science in the Department of Genetics and Evolutionary Biology, working under the supervision of Dr. Carlos Vilela.
 
 **Volunteer Teacher in Adult Education**
- - I taught Science as a Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho.
+ - Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho.I taught science classes for adults from underrepresented populations who did not have a chance to study when they were younger. For approximately two years I witnessed firsthand how education can impact and effectively change lives.
 ---
 
 ## Doctoral Degree

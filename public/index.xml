@@ -125,7 +125,7 @@
 &lt;p&gt;I am an expert in the taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. I integrate field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;drosophilidae-taxonomy&#34;&gt;Drosophilidae Taxonomy&lt;/h2&gt;
-&lt;p&gt;The identification and description of Drosophilidae species involves the analysis of external morphology and genital and anal segments located at the tip of the abdomen, referred to as terminalia. Before efforts to standardize the morphological terminology across Diptera were made in the 1980’s (McAlpine et al., 1981), research groups would adopt independent sets of terminologies. Since homologies were not often considered, multiple terms have been used to refer to the same characters. Recent projects revised the previous nomenclature, introduced new terms to refer to internal and external characters, and produced a visual atlas that identifies structures in the male (Rice et al., 2019) and female (McQueen et al., 2022) terminalia of Drosophila melanogaster. I expanded this initiative to encompass all the external morphology characters and terminalia of the genus Scaptomyza and prepared a visual atlas to link historical and future species descriptions (Rampasso &amp;amp; O’Grady, 2022b). The proposed terminology has been adopted in an identification key of the major groups of native and invasive Drosophilidae in Hawaiʻi (Rampasso &amp;amp; O’Grady, 2022a), in a Scaptomyza species description (Burgunder et al., 2022), and will be adopted in upcoming taxonomic revisions.&lt;/p&gt;
+&lt;p&gt;The identification and description of Drosophilidae species involves the analysis of external morphology and genital and anal segments located at the tip of the abdomen, referred to as terminalia. Before efforts to standardize the morphological terminology across Diptera were made in the 1980’s (McAlpine et al., 1981), research groups would adopt independent sets of terminologies. Since homologies were not often considered, multiple terms have been used to refer to the same characters. Recent projects revised the previous nomenclature, introduced new terms to refer to internal and external characters, and produced a visual atlas that identifies structures in the male (Rice et al., 2019) and female (McQueen et al., 2022) terminalia of &lt;em&gt;Drosophila melanogaster&lt;/em&gt;. I expanded this initiative to encompass all the external morphology characters and terminalia of the genus &lt;em&gt;Scaptomyza&lt;/em&gt; and prepared a visual atlas to link historical and future species descriptions (Rampasso &amp;amp; O’Grady, 2022b). The proposed terminology has been adopted in an identification key of the major groups of native and invasive Drosophilidae in Hawaiʻi (Rampasso &amp;amp; O’Grady, 2022a), in a &lt;em&gt;Scaptomyza&lt;/em&gt; species description (Burgunder et al., 2022), and will be adopted in upcoming taxonomic revisions.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -142,13 +142,14 @@
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-1-male-terminalia-of-_scaptomyza-neocyrtandrae_-in-left-lateral-view-scale-bar--01-mm&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F1.jpg&#34; alt=&#34;RS_F1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Male terminalia of &lt;em&gt;Scaptomyza neocyrtandrae&lt;/em&gt;, in left lateral view. Scale bar = 0.1 mm.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Figure 1. Male terminalia of Scaptomyza neocyrtandrae, in left lateral view. Scale bar = 0.1 mm.&lt;/p&gt;
-&lt;p&gt;Male terminalia (Figure 1) is the most important character system in Drosophilidae taxonomy, especially in groups containing members that are indistinguishable by external morphology. Male terminalia is often used to delimit species, and is highly variable between closely related species, which indicate they evolve faster than all other morphological traits (Hosken &amp;amp; Stockley, 2004; Simmons, 2014). My ongoing research focuses on the subgenus Elmomyza, the largest within the genus Scaptomyza, currently containing 86 described species, all endemic to the Hawaiian Archipelago. I am describing ~10 new species, based on male terminalia analysis (Figure 1), and proposing species groups that reflect their ecological associations and morphological characters (Rampasso &amp;amp; O’Grady, in prep.). I have mentored one undergraduate researcher in the process of describing a new species, and we erected the first species group within the genus Scaptomyza (Burgunder et al., 2022).&lt;/p&gt;
+&lt;p&gt;Male terminalia (Figure 1) is the most important character system in Drosophilidae taxonomy, especially in groups containing members that are indistinguishable by external morphology. Male terminalia is often used to delimit species, and is highly variable between closely related species, which indicate they evolve faster than all other morphological traits (Hosken &amp;amp; Stockley, 2004; Simmons, 2014). My ongoing research focuses on the subgenus &lt;em&gt;Elmomyza&lt;/em&gt;, the largest within the genus &lt;em&gt;Scaptomyza&lt;/em&gt;, currently containing 86 described species, all endemic to the Hawaiian Archipelago. I am describing ~10 new species, based on male terminalia analysis (Figure 1), and proposing species groups that reflect their ecological associations and morphological characters (Rampasso &amp;amp; O’Grady, in prep.). I have mentored one undergraduate researcher in the process of describing a new species, and we erected the first species group within the genus &lt;em&gt;Scaptomyza&lt;/em&gt; (Burgunder et al., 2022).&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;drosophilidae-speciation-driven-by-ecological-associations-and-geographical-isolation&#34;&gt;Drosophilidae Speciation Driven by Ecological Associations and Geographical Isolation&lt;/h2&gt;
 &lt;p&gt;Speciation in Drosophilidae is intimately linked to the associations that taxa form with various breeding and oviposition substrates, as shifts in the ecologies usually accompanies or initiates the divergence process. I collected various types of substrates (Figure 2) in a forest reserve located at the Universidade de São Paulo campus. This represents a small fragment of the Atlantic Forest, located within a concrete jungle in the middle of São Paulo (Brazil). I sampled fruits, flowers, and fleshy fungi over the course of a year. I reared over 3,000 drosophilids, belonging to 38 species across 7 genera, in addition to thousands of other insects (Rampasso, 2019). My research found that drosophilids complete their life cycle and sustain their populations within that tiny forest fragment with limited resources, instead of using it simply as a feeding site on their way to a larger and more abundant natural area (Rampasso, 2019).&lt;/p&gt;
@@ -168,13 +169,14 @@
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-2-examples-of-collected-breeding-sites-a-living-fruits-b-fallen-flowers-c-living-flowers-d-fleshly-fungi&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F2.jpg&#34; alt=&#34;RS_F2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Examples of collected breeding sites. A: living fruits, B: fallen flowers, C: living flowers, D: fleshly fungi.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Figure 2. Examples of collected breeding sites. A: living fruits, B: fallen flowers, C: living flowers, D: fleshly fungi.&lt;/p&gt;
-&lt;p&gt;I am also interested in understanding how geographic isolation might act as a driving force for the process of speciation. I obtained the prestigious “Brazil Scientific Mobility Program” scholarship to support my research, and examined populations of Drosophila arizonae, distributed throughout the southwestern United States into southern Mexico (Figure 3). My prediction was that geographically isolated populations would present concordant patterns of genetic (mtCOI) and morphological (phallus shape) differentiation across the broad, disjunct range of this species. Our results suggest that the Tuxtla Gutiérrez (Chiapas, Mexico) population may be in the early stages of lineage divergence. This was the only population collected to the south of two important geographic barriers, the Trans-Mexican Volcanic Belt and the Isthmus of Tehuantepec, both of which have been associated to reduced gene flow among other organisms (Rampasso et al., 2017).&lt;/p&gt;
+&lt;p&gt;I am also interested in understanding how geographic isolation might act as a driving force for the process of speciation. I obtained the prestigious “Brazil Scientific Mobility Program” scholarship to support my research, and examined populations of &lt;em&gt;Drosophila arizonae&lt;/em&gt;, distributed throughout the southwestern United States into southern Mexico (Figure 3). My prediction was that geographically isolated populations would present concordant patterns of genetic (mtCOI) and morphological (phallus shape) differentiation across the broad, disjunct range of this species. Our results suggest that the Tuxtla Gutiérrez (Chiapas, Mexico) population may be in the early stages of lineage divergence. This was the only population collected to the south of two important geographic barriers, the Trans-Mexican Volcanic Belt and the Isthmus of Tehuantepec, both of which have been associated to reduced gene flow among other organisms (Rampasso et al., 2017).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -191,16 +193,17 @@
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-3-a-collection-sites-of-_drosophila-arizonae_-the-numbers-represent-populations-with-molecular-data-and-the-letters-represent-populations-with-both-molecular-and-morphological-data-2-representation-of-three-geographic-barriers-across-mainland-mexico&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F3.jpg&#34; alt=&#34;RS_F3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3. A: Collection sites of &lt;em&gt;Drosophila arizonae&lt;/em&gt;. The numbers represent populations with molecular data, and the letters represent populations with both molecular and morphological data. 2: Representation of three geographic barriers across mainland Mexico.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Figure 3. A: Collection sites of Drosophila arizonae. The numbers represent populations with molecular data, and the letters represent populations with both molecular and morphological data. 2: Representation of three geographic barriers across mainland Mexico.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;inference-of-evolutionary-patterns-through-phylogenies&#34;&gt;Inference of Evolutionary Patterns through Phylogenies&lt;/h2&gt;
 &lt;p&gt;I used a recently published phylogeny based on 155 whole genomes (Suvorov et al., 2022) to investigate the evolutionary patterns that drove the impressive morphological variation in Drosophilidae male terminalia (Figure 4). I analyzed two periphallic structures responsible for grasping the female terminalia and securing a tight genital coupling. I proposed categories to describe the main patterns of morphological variation of two periphallic structures, reconstructed their states in the ancestor of the family, and inferred how these structures diversified across multiple genera and species groups (Figure 4). Our results provided insights into the association between those characters and their possible role in copulation (Rampasso &amp;amp; O’Grady, submitted).&lt;/p&gt;
-&lt;p&gt;Although the Suvorov et al. (2022) phylogeny provides insight into the evolution of 155 taxa, this only represents a fraction of the ~4,400 described species of Drosophilidae. The Petrov Lab at Stanford University established partnerships with multiple research groups across the world to expand their initial effort and reconstruct a broader whole genome phylogeny to the family, with thousands of taxa. The O’Grady Lab is part of the project, and I am a collaborator. I have helped to supply over 900 Drosophilidae strains, including Scaptomyza species, from the National Drosophila Species Stock Center, the O’Grady Lab ethanol collection, and personal collections.&lt;/p&gt;
+&lt;p&gt;Although the Suvorov et al. (2022) phylogeny provides insight into the evolution of 155 taxa, this only represents a fraction of the ~4,400 described species of Drosophilidae. The Petrov Lab at Stanford University established partnerships with multiple research groups across the world to expand their initial effort and reconstruct a broader whole genome phylogeny to the family, with thousands of taxa. The O’Grady Lab is part of the project, and I am a collaborator. I have helped to supply over 900 Drosophilidae strains, including &lt;em&gt;Scaptomyza&lt;/em&gt; species, from the National &lt;em&gt;Drosophila&lt;/em&gt; Species Stock Center, the O’Grady Lab ethanol collection, and personal collections.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -217,13 +220,14 @@
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-4-ancestral-states-reconstruction-of-cercal-ventral-modifications-in-the-family-drosophilidae&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F4.jpg&#34; alt=&#34;RS_F4&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 4. Ancestral states reconstruction of cercal ventral modifications in the family Drosophilidae.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Figure 4. Ancestral states reconstruction of cercal ventral modifications in the family Drosophilidae.&lt;/p&gt;
-&lt;p&gt;The genus Scaptomyza contains 274 described species, distributed on all continents (except Antarctica) and many remote oceanic islands. Two recent studies supported different hypotheses for the pattern of origin and diversification of the genus. (Lapoint et al. (2013) proposes that Scaptomyza originated and diversified in Hawaii, and then dispersed elsewhere. Katoh et al. (2017) suggests they originated on a continental landmass and then migrated to Hawaiʻi in multiple colonization events. However, the low support of relationships in some areas of both phylogenetic reconstructions indicate that additional sampling is necessary. I will use whole genomes, currently being sequenced by the Petrov Lab, to reconstruct a phylogeny with better resolution in poorly supported clades and test which hypothesis is more likely to describe their pattern of origin and diversification (Rampasso &amp;amp; O’Grady, in prep.).&lt;/p&gt;
+&lt;p&gt;The genus &lt;em&gt;Scaptomyza&lt;/em&gt; contains 274 described species, distributed on all continents (except Antarctica) and many remote oceanic islands. Two recent studies supported different hypotheses for the pattern of origin and diversification of the genus. (Lapoint et al. (2013) proposes that &lt;em&gt;Scaptomyza&lt;/em&gt; originated and diversified in Hawaii, and then dispersed elsewhere. Katoh et al. (2017) suggests they originated on a continental landmass and then migrated to Hawaiʻi in multiple colonization events. However, the low support of relationships in some areas of both phylogenetic reconstructions indicate that additional sampling is necessary. I will use whole genomes, currently being sequenced by the Petrov Lab, to reconstruct a phylogeny with better resolution in poorly supported clades and test which hypothesis is more likely to describe their pattern of origin and diversification (Rampasso &amp;amp; O’Grady, in prep.).&lt;/p&gt;
 </description>
     </item>
     
@@ -432,13 +436,13 @@
 &lt;p&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2015 – 2016&lt;/li&gt;
-&lt;li&gt;Project title: A spontaneous body color mutation in Drosophila nappae (Diptera, Drosophilidae).&lt;/li&gt;
+&lt;li&gt;Project title: A spontaneous body color mutation in &lt;em&gt;Drosophila nappae&lt;/em&gt; (Diptera, Drosophilidae).&lt;/li&gt;
 &lt;li&gt;Major Professor: Dr. Carlos Ribeiro Vilela.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2011 – 2013&lt;/li&gt;
-&lt;li&gt;Project title: Establishment of double mutant strains of Drosophila melanogaster (Diptera, Drosophilidae) for teaching purposes.&lt;/li&gt;
+&lt;li&gt;Project title: Establishment of double mutant strains of &lt;em&gt;Drosophila melanogaster&lt;/em&gt; (Diptera, Drosophilidae) for teaching purposes.&lt;/li&gt;
 &lt;li&gt;Major Professor: Dr. Carlos Ribeiro Vilela.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -474,7 +478,7 @@
 &lt;p&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2014&lt;/li&gt;
-&lt;li&gt;Project title: Genetic and phenotypic differentiation suggests incipient speciation within Drosophila arizonae (Diptera: Drosophilidae).&lt;/li&gt;
+&lt;li&gt;Project title: Genetic and phenotypic differentiation suggests incipient speciation within &lt;em&gt;Drosophila arizonae&lt;/em&gt; (Diptera: Drosophilidae).&lt;/li&gt;
 &lt;li&gt;Advisors: Dr. Maxi Richmond and Dr. Therese Markow.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -862,17 +866,17 @@
       <guid>http://localhost:4321/research/presentations/</guid>
       <description>&lt;h2 id=&#34;invited&#34;&gt;Invited&lt;/h2&gt;
 &lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. A taxonomic revision of the subgenus Elmomyza (Diptera: Drosophilidae: Scaptomyza). 13th Annual Cornell Entomology Symposium. Ithaca, New York, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. A taxonomic revision of the subgenus &lt;em&gt;Elmomyza&lt;/em&gt; (Diptera: Drosophilidae: &lt;em&gt;Scaptomyza&lt;/em&gt;). 13th Annual Cornell Entomology Symposium. Ithaca, New York, USA.&lt;/p&gt;
 &lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. A taxonomic revision of the subgenus Elmomyza (Diptera: Drosophilidae: Scaptomyza). Pacific Entomological and Botanical Meeting 2023. Waikiki, Oahu, Hawaiian Archipelago.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Drosophila and related genera. 12th Annual Cornell Entomology Symposium. Ithaca, New York, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. A taxonomic revision of the subgenus &lt;em&gt;Elmomyza&lt;/em&gt; (Diptera: Drosophilidae: &lt;em&gt;Scaptomyza&lt;/em&gt;). Pacific Entomological and Botanical Meeting 2023. Waikiki, Oahu, Hawaiian Archipelago.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in &lt;em&gt;Drosophila&lt;/em&gt; and related genera. 12th Annual Cornell Entomology Symposium. Ithaca, New York, USA.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;contributed&#34;&gt;Contributed&lt;/h2&gt;
 &lt;h3 id=&#34;2023-1&#34;&gt;2023&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Drosophila and related genera. Evolution 2023. Albuquerque, New Mexico, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in &lt;em&gt;Drosophila&lt;/em&gt; and related genera. Evolution 2023. Albuquerque, New Mexico, USA.&lt;/p&gt;
 &lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Scaptomyza and related genera. Entomology 2021. Entomological Society of America Conference. Denver, Colorado, USA.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. Standardized terminology and visual atlas of the external morphology and terminalia for the genus Scaptomyza (Diptera: Drosophilidae). 4th Drosophila Genitalia Meeting. Virtual Conference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in &lt;em&gt;Scaptomyza&lt;/em&gt; and related genera. Entomology 2021. Entomological Society of America Conference. Denver, Colorado, USA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. Standardized terminology and visual atlas of the external morphology and terminalia for the genus &lt;em&gt;Scaptomyza&lt;/em&gt; (Diptera: Drosophilidae). 4th &lt;em&gt;Drosophila&lt;/em&gt; Genitalia Meeting. Virtual Conference.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
 &lt;h3 id=&#34;2017&#34;&gt;2017&lt;/h3&gt;
@@ -1118,7 +1122,7 @@
 
 
 
-&lt;div id=&#34;chart-369742581&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-859617243&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1136,7 +1140,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-369742581&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-859617243&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,7 +5,7 @@ date: "2024-06-27"
 
 title: "Professional Affiliations"
 
-summary: Please, click here to access mroe information about my professional affiliations.
+summary: Please, click here to access more information about my professional affiliations.
 
 image:
   caption: Augusto Santos Rampasso contemplating the view of West Maui from the East Maui Volcano.
@@ -34,12 +34,12 @@ image:
 
 **Undergraduate Researcher**
   - 2015 – 2016
-  - Project title: A spontaneous body color mutation in Drosophila nappae (Diptera, Drosophilidae). 
+  - Project title: A spontaneous body color mutation in _Drosophila nappae_ (Diptera, Drosophilidae). 
   - Major Professor: Dr. Carlos Ribeiro Vilela.
   
   **Undergraduate Researcher**
   - 2011 – 2013
-  - Project title: Establishment of double mutant strains of Drosophila melanogaster (Diptera, Drosophilidae) for teaching purposes. 
+  - Project title: Establishment of double mutant strains of _Drosophila melanogaster_ (Diptera, Drosophilidae) for teaching purposes. 
   - Major Professor: Dr. Carlos Ribeiro Vilela. 
 
 --- 
@@ -50,6 +50,6 @@ image:
 
 **Undergraduate Researcher**
   - 2014
-  - Project title: Genetic and phenotypic differentiation suggests incipient speciation within Drosophila arizonae (Diptera: Drosophilidae). 
+  - Project title: Genetic and phenotypic differentiation suggests incipient speciation within _Drosophila arizonae_ (Diptera: Drosophilidae). 
   - Advisors: Dr. Maxi Richmond and Dr. Therese Markow.
 

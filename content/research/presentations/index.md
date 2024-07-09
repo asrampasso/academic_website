@@ -13,13 +13,13 @@ summary: Please, click here to access my presentations in academic meetings.
 
 ### 2024
 
-**Rampasso AS**, O’Grady PM. A taxonomic revision of the subgenus Elmomyza (Diptera: Drosophilidae: Scaptomyza). 13th Annual Cornell Entomology Symposium. Ithaca, New York, USA.
+**Rampasso AS**, O’Grady PM. A taxonomic revision of the subgenus _Elmomyza_ (Diptera: Drosophilidae: _Scaptomyza_). 13th Annual Cornell Entomology Symposium. Ithaca, New York, USA.
 
 ### 2023
 
-**Rampasso AS**, O’Grady PM. A taxonomic revision of the subgenus Elmomyza (Diptera: Drosophilidae: Scaptomyza). Pacific Entomological and Botanical Meeting 2023. Waikiki, Oahu, Hawaiian Archipelago.
+**Rampasso AS**, O’Grady PM. A taxonomic revision of the subgenus _Elmomyza_ (Diptera: Drosophilidae: _Scaptomyza_). Pacific Entomological and Botanical Meeting 2023. Waikiki, Oahu, Hawaiian Archipelago.
 
-**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Drosophila and related genera. 12th Annual Cornell Entomology Symposium. Ithaca, New York, USA.
+**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in _Drosophila_ and related genera. 12th Annual Cornell Entomology Symposium. Ithaca, New York, USA.
 
 ---
 
@@ -27,13 +27,13 @@ summary: Please, click here to access my presentations in academic meetings.
 
 ### 2023
 
-**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Drosophila and related genera. Evolution 2023. Albuquerque, New Mexico, USA.
+**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in _Drosophila_ and related genera. Evolution 2023. Albuquerque, New Mexico, USA.
 
 ### 2021
 
-**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in Scaptomyza and related genera. Entomology 2021. Entomological Society of America Conference. Denver, Colorado, USA.
+**Rampasso AS**, O’Grady PM. The evolution of two periphallic sclerites of the male terminalia in _Scaptomyza_ and related genera. Entomology 2021. Entomological Society of America Conference. Denver, Colorado, USA.
 
-**Rampasso AS**, O’Grady PM. Standardized terminology and visual atlas of the external morphology and terminalia for the genus Scaptomyza (Diptera: Drosophilidae). 4th Drosophila Genitalia Meeting. Virtual Conference.
+**Rampasso AS**, O’Grady PM. Standardized terminology and visual atlas of the external morphology and terminalia for the genus _Scaptomyza_ (Diptera: Drosophilidae). 4th _Drosophila_ Genitalia Meeting. Virtual Conference.
 
 ---
 
