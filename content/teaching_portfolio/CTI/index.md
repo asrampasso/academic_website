@@ -48,25 +48,25 @@ title: Graduate Teaching Fellow
  - Spring 2024.
  - Facilitators: Augusto Santos Rampasso and Megan Keller. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
- - University-Wide Conference, Center for Teaching Innovation, Cornell University.
+ - University-Wide Conference.
 
 **Experiences on the Job Market.**
  - Spring 2024.
  - Facilitators: Augusto Santos Rampasso, Kim Webb, Kristie LeBeau, and Marissa Gee. 
  - Supervisor: Dr. Derina Samuel. 
- - University-Wide Conference, Center for Teaching Innovation, Cornell University.
+ - University-Wide Conference.
 
 **Final Session: Discussion of an Action Plan.** 
  - Fall 2023.
  - Facilitators: Augusto Santos Rampasso and Colby Gekko. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
- - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
+ - Essentials of Teaching Institute.
 
 **Supporting Student Learning as a TA.** 
  - Fall 2023.	
  - Facilitators: Augusto Santos Rampasso and Elijah Sheridan. 
  - Supervisors: Kim Webb and Dr. Derina Samuel. 
- - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
+ - Essentials of Teaching Institute.
 
 ---
 
@@ -86,18 +86,18 @@ title: Graduate Teaching Fellow
  - Spring 2023.	 
  - Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
- - University-Wide Conference, Center for Teaching Innovation, Cornell University.
+ - University-Wide Conference.
 
 **Building an Inclusive Classroom Community.** 
  - Spring 2023.	
  - Facilitators: Rink Tacoma-Fogal and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
- - University-Wide Conference, Center for Teaching Innovation, Cornell University.
+ - University-Wide Conference.
 
 **Supporting Student Learning as a TA.**
  - Fall 2022.	 
  - Facilitators: Kim Webb and Augusto Santos Rampasso. 
  - Supervisors: Brianna Zgurich and Dr. Derina Samuel. 
- - Essentials of Teaching, Center for Teaching Innovation, Cornell University.
+ - Essentials of Teaching Institute.
  
 ---

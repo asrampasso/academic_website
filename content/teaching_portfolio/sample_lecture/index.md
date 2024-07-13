@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2024-06-26"
+date: "2024-06-25"
 image:
 
 summary: Please, click here to access details of a lecture plan, including sample slides.
@@ -10,7 +10,7 @@ title: Sample Lecture Plan
 ---
 
 ## Course Level
-Undergraduate students.
+Introductory undergraduate.
 
 ## Number of Students
 20-30 students.

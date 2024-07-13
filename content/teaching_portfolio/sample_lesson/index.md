@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2024-06-27"
+date: "2024-06-24"
 
 summary: Please, click here to access details of a lesson plan, including sample slides and sample handout.
 

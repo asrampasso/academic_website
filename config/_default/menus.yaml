@@ -16,9 +16,6 @@ main:
   - name: Publications
     url: publication/
     weight: 40
-  - name: Teaching Experience
-    url: teaching/
-    weight: 50  
   - name: Teaching Portfolio
     url: teaching_portfolio/
-    weight: 60
+    weight: 50
