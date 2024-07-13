@@ -795,7 +795,9 @@
       <link>http://localhost:4321/teaching_portfolio/sample_lecture/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching_portfolio/sample_lecture/</guid>
-      <description>&lt;h2 id=&#34;course-level&#34;&gt;Course Level&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;Speciation in an Ecological Context.&lt;/p&gt;
+&lt;h2 id=&#34;course-level&#34;&gt;Course Level&lt;/h2&gt;
 &lt;p&gt;Introductory undergraduate.&lt;/p&gt;
 &lt;h2 id=&#34;number-of-students&#34;&gt;Number of Students&lt;/h2&gt;
 &lt;p&gt;20-30 students.&lt;/p&gt;
@@ -822,7 +824,9 @@
       <link>http://localhost:4321/teaching_portfolio/sample_lesson/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching_portfolio/sample_lesson/</guid>
-      <description>&lt;h2 id=&#34;course-level&#34;&gt;Course Level&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;Coleoptera Diversity and Identification.&lt;/p&gt;
+&lt;h2 id=&#34;course-level&#34;&gt;Course Level&lt;/h2&gt;
 &lt;p&gt;Undergraduate and graduate students.&lt;/p&gt;
 &lt;h2 id=&#34;number-of-students&#34;&gt;Number of Students&lt;/h2&gt;
 &lt;p&gt;20-30 students.&lt;/p&gt;

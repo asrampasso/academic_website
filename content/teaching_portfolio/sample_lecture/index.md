@@ -9,6 +9,9 @@ summary: Please, click here to access details of a lecture plan, including sampl
 title: Sample Lecture Plan
 ---
 
+## Title
+Speciation in an Ecological Context.
+
 ## Course Level
 Introductory undergraduate.
 

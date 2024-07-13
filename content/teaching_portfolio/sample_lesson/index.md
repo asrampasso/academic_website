@@ -8,6 +8,9 @@ summary: Please, click here to access details of a lesson plan, including sample
 title: Sample Lesson Plan
 ---
 
+## Title
+Coleoptera Diversity and Identification.
+
 ## Course Level
 Undergraduate and graduate students.
 
