@@ -17,7 +17,7 @@
       <link>http://localhost:4321/teaching_portfolio/statements/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching_portfolio/statements/</guid>
-      <description>&lt;p&gt;Please, click here to access my &lt;a href=&#34;http://localhost:4321/Teaching_Statement.pdf&#34;&gt;Teaching Statement&lt;/a&gt; and my &lt;a href=&#34;http://localhost:4321/DEI_Statement.pdf&#34;&gt;DEI Statement.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Please, click here to access my &lt;a href=&#34;http://localhost:4321/teaching_portfolio/statements/Teaching_Statement.pdf&#34;&gt;Teaching Philosophy Statement&lt;/a&gt; and my &lt;a href=&#34;http://localhost:4321/teaching_portfolio/statements/DEI_Statement.pdf&#34;&gt;DEI Statement.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -814,7 +814,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:4321/sample_lecture.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:4321/teaching_portfolio/sample_lecture/sample_lecture.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -825,7 +825,7 @@
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/teaching_portfolio/sample_lesson/</guid>
       <description>&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
-&lt;p&gt;Coleoptera Diversity and Identification.&lt;/p&gt;
+&lt;p&gt;Coleoptera: Diversity and Identification.&lt;/p&gt;
 &lt;h2 id=&#34;course-level&#34;&gt;Course Level&lt;/h2&gt;
 &lt;p&gt;Undergraduate and graduate students.&lt;/p&gt;
 &lt;h2 id=&#34;number-of-students&#34;&gt;Number of Students&lt;/h2&gt;

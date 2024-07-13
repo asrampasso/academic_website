@@ -23,6 +23,9 @@ interests:
 - Taxonomy
 - Phylogenetics
 - Evolutionary Patterns
+- Speciation
+- Character Evolution
+- Biogeography
 
 languages:
 - name: English (fluent)

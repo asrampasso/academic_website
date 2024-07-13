@@ -2,6 +2,55 @@
 title: Timeline
 view: article-grid
 ---
+
+## Doctoral Degree
+
+```mermaid
+
+gantt
+
+  dateFormat  YYYY-MM-DD
+
+  section Doctoral Degree
+  Cornell University: 2019-08-15, 2100d
+  Center for Teaching Innovation: 2022-08-15, 1000d
+
+```
+
+**[Cornell University](https://www.cornell.edu/) - [Department of Entomology](https://cals.cornell.edu/entomology)**
+ - I am a PhD candidate in the Program of Entomology, working under the supervision of Dr. Patrick O'Grady.
+ - I have already served as a Graduate Teaching Assistant in five different courses (Model-Based Phylogenetics, Honey Bee Biology, Alien Empire, Insect Biology, and Plagues and People),and will teach Investigative Biology in Fall 2024 and Spring 2025. 
+ - Expected to graduate in May 2025.
+ 
+**[Center for Teaching Innovation](https://teaching.cornell.edu/) - [Graduate Teaching Fellow](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)**
+ - I am currently serving for the third consecutive year. In the role of Senior Lead Graduate Teaching Fellow, I am leading the entire group of approximately 20 fellows as we prepare and present teaching workshops to the Cornell community. 
+
+---
+
+## Master's Degree
+
+```mermaid
+
+gantt
+
+  dateFormat  YYYY-MM-DD
+
+  section Master's Degree
+  USP: 2017-02-02, 839d
+  Volunteer Teacher in Adult Education: 2017-08-01, 660d
+
+```
+
+**USP: [Universidade de São Paulo](https://www5.usp.br/) - [Departamento de Genética e Biologia Evolutiva](https://posgenetica.ib.usp.br/#)**
+ - I obtained my Master of Science in the Department of Genetics and Evolutionary Biology, working under the supervision of Dr. Carlos Vilela.
+ - Graduation: August 2019.
+
+**Volunteer Teacher in Adult Education**
+ - Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho.I taught science classes for adults from underrepresented populations who did not have a chance to study when they were younger. For approximately two years I witnessed firsthand how education can impact and effectively change lives.
+ - Fall 2017 - Spring 2019.
+ 
+---
+
 ## Undergraduate Degree
 
 ```mermaid
@@ -70,49 +119,4 @@ gantt
 
 ---
 
-## Master's Degree
 
-```mermaid
-
-gantt
-
-  dateFormat  YYYY-MM-DD
-
-  section Master's Degree
-  USP: 2017-02-02, 839d
-  Volunteer Teacher in Adult Education: 2017-08-01, 660d
-
-```
-
-**USP: [Universidade de São Paulo](https://www5.usp.br/) - [Departamento de Genética e Biologia Evolutiva](https://posgenetica.ib.usp.br/#)**
- - I obtained my Master of Science in the Department of Genetics and Evolutionary Biology, working under the supervision of Dr. Carlos Vilela.
- - Graduation: August 2019.
-
-**Volunteer Teacher in Adult Education**
- - Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho.I taught science classes for adults from underrepresented populations who did not have a chance to study when they were younger. For approximately two years I witnessed firsthand how education can impact and effectively change lives.
- - Fall 2017 - Spring 2019.
----
-
-## Doctoral Degree
-
-```mermaid
-
-gantt
-
-  dateFormat  YYYY-MM-DD
-
-  section Doctoral Degree
-  Cornell University: 2019-08-15, 2100d
-  Center for Teaching Innovation: 2022-08-15, 1000d
-
-```
-
-**[Cornell University](https://www.cornell.edu/) - [Department of Entomology](https://cals.cornell.edu/entomology)**
- - I am a PhD candidate in the Program of Entomology, working under the supervision of Dr. Patrick O'Grady.
- - I have already served as a Graduate Teaching Assistant in five different courses (Model-Based Phylogenetics, Honey Bee Biology, Alien Empire, Insect Biology, and Plagues and People),and will teach Investigative Biology in Fall 2024 and Spring 2025. 
- - Expected to graduate in May 2025.
- 
-**[Center for Teaching Innovation](https://teaching.cornell.edu/) - [Graduate Teaching Fellow](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)**
- - I am currently serving for the third consecutive year. In the role of Senior Lead Graduate Teaching Fellow, I am leading the entire group of approximately 20 fellows as we prepare and present teaching workshops to the Cornell community. 
-
----

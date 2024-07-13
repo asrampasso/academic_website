@@ -8,4 +8,4 @@ summary: Please, click here to access my Teaching and DEI Statements.
 title: Teaching and DEI Statements
 ---
 
-Please, click here to access my [Teaching Statement](/Teaching_Statement.pdf) and my [DEI Statement.](/DEI_Statement.pdf)
+Please, click here to access my [Teaching Philosophy Statement](/teaching_portfolio/statements/Teaching_Statement.pdf) and my [DEI Statement.](/teaching_portfolio/statements/DEI_Statement.pdf)

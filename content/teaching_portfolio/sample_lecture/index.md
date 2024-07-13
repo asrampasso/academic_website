@@ -31,4 +31,4 @@ By the end of this lecture, students will be able to:
  - Evaluate the roles of speciation and extinction rates in the biodiversity maintenance in our planet.
 
 ## Materials
- - [Slides](/sample_lecture.pdf)
+ - [Slides](/teaching_portfolio/sample_lecture/sample_lecture.pdf)
