@@ -31,7 +31,7 @@ By the end of this lab session, students will be able to:
  - Use dichotomous keys to identify beetles to Family level.
 
 ## Materials
- - [Slides](/sample_slides.pdf)
- - [Handout](/sample_handout.pdf)
+ - [Slides](/teaching_portfolio/sample_lesson/sample_slides.pdf)
+ - [Handout](/teaching_portfolio/sample_lesson/sample_handout.pdf)
 
 
