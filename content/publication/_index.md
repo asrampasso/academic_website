@@ -21,6 +21,8 @@ McQueen EW, Afkhami M, Atallah J, Belote JM, Gompel N, Heifetz Y, Kamimura Y, Ko
 **Rampasso AS**, O’Grady PM. 2022a. Standardized terminology and visual atlas of the external morphology and terminalia for the genus _Scaptomyza_ (Diptera: Drosophilidae). Fly, 16(1): 37-61.
 [PDF](https://www.tandfonline.com/doi/full/10.1080/19336934.2021.1969220)
 
+---
+
 ## 2017
 
 **Rampasso AS**, Markow TA, Richmond MR. 2017. Genetic and phenotypic differentiation suggests incipient speciation within _Drosophila arizonae_ (Diptera: Drosophilidae). Biological Journal of the Linnean Society, 122(2): 444-454.
@@ -29,8 +31,11 @@ McQueen EW, Afkhami M, Atallah J, Belote JM, Gompel N, Heifetz Y, Kamimura Y, Ko
 **Rampasso AS**, Vilela CR. 2017. A spontaneous body color mutation in _Drosophila nappae_ (Diptera, Drosophilidae). Revista Brasileira de Entomologia, 61(2): 111-113.
 [PDF](https://www.sciencedirect.com/science/article/pii/S0085562616302138?via%3Dihub)
 
+---
+
 ## 2015
 
 **Rampasso AS**, Vilela CR. 2015. Establishment of double mutant strains of _Drosophila melanogaster_ (Diptera, Drosophilidae) for teaching purposes. Drosophila Information Service, 98: 157-162.
 [PDF](https://www.ou.edu/journals/dis/DIS98/Teaching/Rampasso%20&%20Vilela.pdf)
 
+---

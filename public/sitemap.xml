@@ -18,7 +18,7 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/research/get-started/</loc>
+    <loc>http://localhost:4321/research/research_experience/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,7 +38,11 @@
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/research/research_experience/</loc>
+    <loc>http://localhost:4321/research/presentations/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/research/presentations_meetings/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
