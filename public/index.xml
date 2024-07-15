@@ -71,9 +71,9 @@
     
     <item>
       <title>Research Experience</title>
-      <link>http://localhost:4321/research/get-started/</link>
+      <link>http://localhost:4321/research/research_experience/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/get-started/</guid>
+      <guid>http://localhost:4321/research/research_experience/</guid>
       <description>&lt;h2 id=&#34;oveview&#34;&gt;Oveview&lt;/h2&gt;
 &lt;p&gt;I am an expert in the taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. I integrate field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.&lt;/p&gt;
 &lt;hr&gt;
@@ -97,7 +97,7 @@
 
 &lt;figure  id=&#34;figure-figure-1-male-terminalia-of-_scaptomyza-neocyrtandrae_-in-left-lateral-view-scale-bar--01-mm&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F1.jpg&#34; alt=&#34;RS_F1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/research_experience/RS_F1.jpg&#34; alt=&#34;RS_F1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 1. Male terminalia of &lt;em&gt;Scaptomyza neocyrtandrae&lt;/em&gt;, in left lateral view. Scale bar = 0.1 mm.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -124,7 +124,7 @@
 
 &lt;figure  id=&#34;figure-figure-2-examples-of-collected-breeding-sites-a-living-fruits-b-fallen-flowers-c-living-flowers-d-fleshly-fungi&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F2.jpg&#34; alt=&#34;RS_F2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/research_experience/RS_F2.jpg&#34; alt=&#34;RS_F2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 2. Examples of collected breeding sites. A: living fruits, B: fallen flowers, C: living flowers, D: fleshly fungi.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -148,7 +148,7 @@
 
 &lt;figure  id=&#34;figure-figure-3-a-collection-sites-of-_drosophila-arizonae_-the-numbers-represent-populations-with-molecular-data-and-the-letters-represent-populations-with-both-molecular-and-morphological-data-2-representation-of-three-geographic-barriers-across-mainland-mexico&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F3.jpg&#34; alt=&#34;RS_F3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/research_experience/RS_F3.jpg&#34; alt=&#34;RS_F3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 3. A: Collection sites of &lt;em&gt;Drosophila arizonae&lt;/em&gt;. The numbers represent populations with molecular data, and the letters represent populations with both molecular and morphological data. 2: Representation of three geographic barriers across mainland Mexico.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -175,7 +175,7 @@
 
 &lt;figure  id=&#34;figure-figure-4-ancestral-states-reconstruction-of-cercal-ventral-modifications-in-the-family-drosophilidae&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/RS_F4.jpg&#34; alt=&#34;RS_F4&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/research_experience/RS_F4.jpg&#34; alt=&#34;RS_F4&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 4. Ancestral states reconstruction of cercal ventral modifications in the family Drosophilidae.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -334,14 +334,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Cornell&#34; srcset=&#34;
-               /research/professional_affiliations/Cornell_huf0862bf3a241d287864245289791bed7_1813318_a4a8f7ed195c231ff3acf80240086592.webp 400w,
-               /research/professional_affiliations/Cornell_huf0862bf3a241d287864245289791bed7_1813318_8e61c7b7146185a9ad31641a80fbb7ba.webp 760w,
-               /research/professional_affiliations/Cornell_huf0862bf3a241d287864245289791bed7_1813318_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/professional_affiliations/Cornell_huf0862bf3a241d287864245289791bed7_1813318_a4a8f7ed195c231ff3acf80240086592.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/professional_affiliations/Cornell.jpg&#34; alt=&#34;Cornell&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Doctoral Researcher&lt;/strong&gt;&lt;/p&gt;
@@ -370,14 +363,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;USP&#34; srcset=&#34;
-               /research/professional_affiliations/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_442a64295cf385fa34d408ad662bcb45.webp 400w,
-               /research/professional_affiliations/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_cba4bd33daf3613d090d1524eb0f6ef0.webp 760w,
-               /research/professional_affiliations/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/professional_affiliations/USP_hu416ab7bbb26bb0208137404c74f211f4_354175_442a64295cf385fa34d408ad662bcb45.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/professional_affiliations/USP.jpg&#34; alt=&#34;USP&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Master&amp;rsquo;s Researcher&lt;/strong&gt;&lt;/p&gt;
@@ -418,14 +404,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;UCSD&#34; srcset=&#34;
-               /research/professional_affiliations/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1df827f686d74eb5264d140146399399.webp 400w,
-               /research/professional_affiliations/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_4bfd3e6edbf320094711333a838759fb.webp 760w,
-               /research/professional_affiliations/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:4321/research/professional_affiliations/UCSD_hu3361fc6d0c930da29f65b6e81c07688a_297746_1df827f686d74eb5264d140146399399.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;475&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/professional_affiliations/UCSD.jpg&#34; alt=&#34;UCSD&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Undergraduate Researcher&lt;/strong&gt;&lt;/p&gt;
@@ -463,7 +442,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2024_New_York.jpg&#34; alt=&#34;2022_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2024_New_York.jpg&#34; alt=&#34;2022_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -488,7 +467,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2023_Maui.jpg&#34; alt=&#34;2023_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2023_Maui.jpg&#34; alt=&#34;2023_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -513,7 +492,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2023_Colorado.jpg&#34; alt=&#34;2023_Colorado&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2023_Colorado.jpg&#34; alt=&#34;2023_Colorado&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;new-mexico&#34;&gt;New Mexico&lt;/h3&gt;
@@ -536,7 +515,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2023_New_Mexico.jpg&#34; alt=&#34;2023_New_Mexico&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2023_New_Mexico.jpg&#34; alt=&#34;2023_New_Mexico&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;new-york-1&#34;&gt;New York&lt;/h3&gt;
@@ -559,7 +538,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2023_New_York.jpg&#34; alt=&#34;2023_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2023_New_York.jpg&#34; alt=&#34;2023_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -584,7 +563,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2022_Maui.jpg&#34; alt=&#34;2022_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2022_Maui.jpg&#34; alt=&#34;2022_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -609,7 +588,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2022_New_York.jpg&#34; alt=&#34;2022_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2022_New_York.jpg&#34; alt=&#34;2022_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -634,7 +613,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2021_Arizona.jpg&#34; alt=&#34;2021_Arizona&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2021_Arizona.jpg&#34; alt=&#34;2021_Arizona&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;new-york-3&#34;&gt;New York&lt;/h3&gt;
@@ -657,7 +636,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2021_New_York.jpg&#34; alt=&#34;2021_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2021_New_York.jpg&#34; alt=&#34;2021_New_York&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -682,7 +661,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2020_Big_Island.jpg&#34; alt=&#34;2020_Big_Island&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2020_Big_Island.jpg&#34; alt=&#34;2020_Big_Island&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;maui-2&#34;&gt;Maui&lt;/h3&gt;
@@ -705,7 +684,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2020_Maui.jpg&#34; alt=&#34;2020_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2020_Maui.jpg&#34; alt=&#34;2020_Maui&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;oahu&#34;&gt;Oahu&lt;/h3&gt;
@@ -728,7 +707,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/2020_Oahu.jpg&#34; alt=&#34;2020_Oahu&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:4321/research/fieldwork/2020_Oahu.jpg&#34; alt=&#34;2020_Oahu&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -766,9 +745,9 @@
     
     <item>
       <title>Presentations in Scientific Meetings</title>
-      <link>http://localhost:4321/research/research_experience/</link>
+      <link>http://localhost:4321/research/presentations_meetings/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/research_experience/</guid>
+      <guid>http://localhost:4321/research/presentations_meetings/</guid>
       <description>&lt;h2 id=&#34;invited&#34;&gt;Invited&lt;/h2&gt;
 &lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Rampasso AS&lt;/strong&gt;, O’Grady PM. A taxonomic revision of the subgenus &lt;em&gt;Elmomyza&lt;/em&gt; (Diptera: Drosophilidae: &lt;em&gt;Scaptomyza&lt;/em&gt;). 13th Annual Cornell Entomology Symposium. Ithaca, New York, USA.&lt;/p&gt;

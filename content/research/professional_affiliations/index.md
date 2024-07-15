@@ -14,7 +14,7 @@ image:
 
 ## Cornell University
 
-![Cornell](/Cornell.jpg)
+![Cornell](/research/professional_affiliations/Cornell.jpg)
 
 **Doctoral Researcher**
   - 2019 – Current
@@ -25,7 +25,7 @@ image:
 
 ## Universidade de São Paulo (USP)
 
-![USP](/USP.jpg)
+![USP](/research/professional_affiliations/USP.jpg)
 
 **Master's Researcher**
   - 2017 – 2019
@@ -46,7 +46,7 @@ image:
 
 ## University of California, San Diego (UCSD)
 
-![UCSD](/UCSD.jpg)
+![UCSD](/research/professional_affiliations/UCSD.jpg)
 
 **Undergraduate Researcher**
   - 2014

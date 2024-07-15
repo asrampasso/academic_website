@@ -19,11 +19,13 @@ gantt
 
 **[Cornell University](https://www.cornell.edu/) - [Department of Entomology](https://cals.cornell.edu/entomology)**
  - I am a PhD candidate in the Program of Entomology, working under the supervision of Dr. Patrick O'Grady.
- - I have already served as a Graduate Teaching Assistant in five different courses (Model-Based Phylogenetics, Honey Bee Biology, Alien Empire, Insect Biology, and Plagues and People),and will teach Investigative Biology in Fall 2024 and Spring 2025. 
+ - I have served as a Graduate Teaching Assistant in five different courses (Model-Based Phylogenetics, Honey Bee Biology, Alien Empire, Insect Biology, and Plagues and People). 
+ - Currently, I am serving as a Graduate Teaching Assistant for Investigative Biology in Fall 2024 and Spring 2025. 
  - Expected to graduate in May 2025.
  
 **[Center for Teaching Innovation](https://teaching.cornell.edu/) - [Graduate Teaching Fellow](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)**
- - I am currently serving for the third consecutive year. In the role of Senior Lead Graduate Teaching Fellow, I am leading the entire group of approximately 20 fellows as we prepare and present teaching workshops to the Cornell community. 
+ - I am currently serving as a Graduate Teaching Fellow for the third consecutive year. 
+ - This year, I took the role of Senior Lead Graduate Teaching Fellow. In this position, I am leading the entire group of approximately 20 fellows as we prepare and present teaching workshops to the Cornell community. 
 
 ---
 
@@ -46,7 +48,8 @@ gantt
  - Graduation: August 2019.
 
 **Volunteer Teacher in Adult Education**
- - Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho.I taught science classes for adults from underrepresented populations who did not have a chance to study when they were younger. For approximately two years I witnessed firsthand how education can impact and effectively change lives.
+ - I worked as a Volunteer Teacher in the Adult Education program of the Escola Nova Lourenço Castanho during my Master's Degree. 
+ - I taught science classes for adults from underrepresented populations who did not have a chance to study when they were younger. For approximately two years I witnessed firsthand how education can impact and effectively change lives.
  - Fall 2017 - Spring 2019.
  
 ---
@@ -81,7 +84,8 @@ gantt
  - Graduation: April 2016.
 
 **High School Teaching Assistant**
- - I started working as a High School Teaching Assistant of Biology at the Escola Nova Lourenço Castanho during my Bachelor of Science degree. The experience of closely following the students’ personal growth and intellectual development inspired me to pursue the Undergraduate Degree in Biology Education.
+ - I started working as a High School Teaching Assistant of Biology at the Escola Nova Lourenço Castanho during my Bachelor of Science degree. 
+ - The experience of closely following the students’ personal growth and intellectual development inspired me to pursue the Undergraduate Degree in Biology Education.
  - Fall 2015 - Fall 2017.
 
 **USP****: [Universidade de São Paulo](https://www5.usp.br/) - [Biology Education (Licenciatura)](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=41&codcur=41012&codhab=304&tipo=N)
