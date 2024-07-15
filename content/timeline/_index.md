@@ -20,7 +20,7 @@ gantt
 **[Cornell University](https://www.cornell.edu/) - [Department of Entomology](https://cals.cornell.edu/entomology)**
  - I am a PhD candidate in the Program of Entomology, working under the supervision of Dr. Patrick O'Grady.
  - I have served as a Graduate Teaching Assistant in five different courses (Model-Based Phylogenetics, Honey Bee Biology, Alien Empire, Insect Biology, and Plagues and People). 
- - Currently, I am serving as a Graduate Teaching Assistant for Investigative Biology in Fall 2024 and Spring 2025. 
+ - I will serve as a Graduate Teaching Assistant for Investigative Biology in Fall 2024 and Spring 2025. 
  - Expected to graduate in May 2025.
  
 **[Center for Teaching Innovation](https://teaching.cornell.edu/) - [Graduate Teaching Fellow](https://teaching.cornell.edu/cti-graduate-teaching-fellowship)**

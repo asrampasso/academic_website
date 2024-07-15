@@ -38,4 +38,3 @@ McQueen EW, Afkhami M, Atallah J, Belote JM, Gompel N, Heifetz Y, Kamimura Y, Ko
 **Rampasso AS**, Vilela CR. 2015. Establishment of double mutant strains of _Drosophila melanogaster_ (Diptera, Drosophilidae) for teaching purposes. Drosophila Information Service, 98: 157-162.
 [PDF](https://www.ou.edu/journals/dis/DIS98/Teaching/Rampasso%20&%20Vilela.pdf)
 
----
