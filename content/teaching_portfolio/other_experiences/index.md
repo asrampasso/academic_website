@@ -10,10 +10,11 @@ title: Other Teaching Experiences
 ---
 
 ## Guest Lecturer
- - Fall 2023
- - ENTOM2120: Insect Biology. Coleoptera Diversity and Identification. 
+ - Class title: Coleoptera Diversity and Identification.
+ - Course: Insect Biology (ENTOM2120). 
  - Department of Entomology, Cornell University.
-
+ - Fall 2023
+ 
 ---
  
 ## Adult Education Volunteer Teacher
