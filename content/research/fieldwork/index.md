@@ -84,3 +84,11 @@ Collected at the Manoa Cliff trail by net sweeping.
 ![2020_Oahu](/research/fieldwork/2020_Oahu.jpg)
 
 ---
+
+## 2017-2018 - Brazil
+
+### São Paulo (SP)
+Collected multiple substrates over 12 successive months at the Forest Reserve in the Universidade de São Paulo campus (it is a small but amazing fragment of the Atlantic Forest!) and reared the insects that used them as breeding sites.
+![2017_18_Brazil_USP](/research/fieldwork/2017_18_Brazil_USP.jpg)
+
+---
