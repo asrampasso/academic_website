@@ -43,15 +43,19 @@ profiles:
   url: mailto:as3928@cornell.edu
 - icon: brands/github
   url: https://github.com/asrampasso
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/augusto-santos-rampasso
 - icon: academicons/google-scholar
   url: https://scholar.google.com/citations?user=6vsla7EAAAAJ&hl=en
 - icon: academicons/orcid
   url: https://orcid.org/0000-0003-4857-9595
-  
+- icon: "custom/researchgate"
+  url: https://www.researchgate.net/profile/Augusto-Santos-Rampasso
+   
 role: PhD Candidate
 
 ---
 
 ## About Me
 
-Augusto Santos Rampasso is a PhD candidate in Entomology at Cornell University. His research interests taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. He integrates field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species. His goal is to obtain a detailed overview of the diversification process, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.
+Augusto Santos Rampasso is a PhD candidate in Entomology at Cornell University. His research interests are taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. He integrates field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species. His goal is to obtain a detailed overview of the diversification process, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.
