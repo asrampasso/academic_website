@@ -12,7 +12,7 @@ summary: Please, click here to access more information about my research experie
 
 ---
 
-## Oveview
+## Overview
 
 I am an expert in the taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. I integrate field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution. 
 
