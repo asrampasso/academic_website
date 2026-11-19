@@ -15,5 +15,3 @@ hide_date: true
  - To be considered, a graduate teaching assistant needs recommendations from the professors they taught with.
  - Academic year 2024-2025, awarded in Spring 2025.
  - The award recognizes distinguished performance as a teaching assistant in the college. Recipients receive a certificate and a golden apple.
-
-*The CALS Outstanding Teaching Assistant certificate of appreciation and the golden apple.*
