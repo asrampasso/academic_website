@@ -15,9 +15,13 @@ summary: A list of the talks and posters I have presented at scientific meetings
 
 ---
 
-### 2025
+### 2026
 
 **Rampasso AS**, Wang J, Church SH, Kim BY. Ecological Transitions Across the Hawaiian Drosophilidae Adaptive Radiation: A Genomic Approach. XIII Symposium on Ecology, Genetics and Evolution of *Drosophila*. Guarapuava, Paraná, Brazil.
+
+---
+
+### 2025
 
 **Rampasso AS**, Kim BY. The Hawaiian *Drosophila* Genomes Project: Uncovering the Genomic Basis of an Extraordinary Adaptive Radiation. Pacific Entomological and Botanical Meeting 2025. Waikiki, Oahu, Hawaiian Archipelago.
 
