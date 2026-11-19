@@ -1,15 +1,19 @@
 ---
 title: Teaching Portfolio
 view: article-grid
+hide_date: true
 ---
 
-Welcome to my Teaching Portfolio!
+**Welcome to my Teaching Portfolio!**
 
-In here, I share details about my teaching experiences and examples of materials that I prepared. This includes:
- - Teaching Philosophy Statement.
- - Diversity, Equity, and Inclusion Statement.
- - My experience as a Graduate Teaching Assistant and Student Evaluations.
- - My experience as a Graduate Teaching Fellow in the Center for Teaching Innovation at Cornell University.
- - Other teaching experiences (Guest Lecturer, Volunteer Teacher in Adult Education, and High School Teaching Assistant).
- - Sample Lesson Plan (including sample slides and handout).
- - Sample Lecture (including sample slides).
+This portfolio presents my teaching experience and examples of the materials I have developed. It includes:
+
+- Teaching Philosophy Statement
+- Diversity, Equity, and Inclusion Statement
+- Teaching Award
+- Experience as a Graduate Teaching Assistant, with student evaluations
+- Experience as a Graduate Teaching Fellow at Cornell University’s Center for Teaching Innovation
+- Other teaching experience: guest lecturer, volunteer teacher in adult education, and high school teaching assistant
+- Sample Lesson Plan, with slides and handout
+- Sample Lecture Plan, with slides
+- Sample Inquiry-Based Lesson Plan, with handouts

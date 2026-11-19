@@ -7,6 +7,16 @@ title: Publications
 
 ---
 
+## 2025
+
+**Rampasso AS**, O’Grady PM. 2025b. Taxonomic Revision of Hawaiian _Elmomyza_ species (Diptera, Drosophilidae, _Scaptomyza_). I. The _Scaptomyza cyrtandrae_, _Scaptomyza exigua_, and _Scaptomyza obscuricornis_ species groups, with the descriptions of nine new species. Zootaxa, 5729(1): 1-42. 
+[PDF](https://doi.org/10.11646/zootaxa.5729.1.1)
+
+**Rampasso AS**, O’Grady PM. 2025a. The evolution of 2 periphallic sclerites of the male terminalia in Drosophila and related genera. Insect Systematics and Diversity, 9(4): 1-15.
+[PDF](https://doi.org/10.1093/isd/ixaf022)
+
+---
+
 ## 2022
 
 Burgunder B, **Rampasso AS**, O’Grady P. 2022. The _Scaptomyza cyrtandrae_ species group, with the description of a new species (Diptera: Drosophilidae). Bishop Museum Occasional Papers, 142: 75-87. 

@@ -2,7 +2,7 @@
 
 education:
 
-- area: PhD Candidate in Entomology (Expected May 2025)
+- area: Doctor of Philosophy in Entomology (2025)
   institution: Cornell University, Ithaca, NY, USA
 
 - area: Master of Science in Genetics and Evolutionary Biology (2019)
@@ -14,18 +14,18 @@ education:
 - area: Bachelor of Science in Biological Sciences (2016)
   institution: Universidade de São Paulo (USP), São Paulo, SP, Brazil
 
-name: Augusto Santos Rampasso
+name: Augusto Santos Rampasso.
 highlight_name: true
 
-title: Augusto Santos Rampasso
+title: Augusto Santos Rampasso, PhD.
 
 interests:
-- Taxonomy
-- Phylogenetics
-- Evolutionary Patterns
-- Speciation
-- Character Evolution
 - Biogeography
+- Evolution
+- Genomics
+- Phylogenetics
+- Population Genetics
+- Taxonomy
 
 languages:
 - name: English (fluent)
@@ -34,7 +34,7 @@ languages:
   percent: 50
 
 organizations:
-- name: Department of Entomology, Cornell University
+- name: Ecology and Evolutionary Biology Department, Princeton University
   url: https://cals.cornell.edu/entomology
   
 profiles:
@@ -50,10 +50,10 @@ profiles:
 - icon: academicons/orcid
   url: https://orcid.org/0000-0003-4857-9595
 
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 ---
 
 ## About Me
 
-Augusto Santos Rampasso is a PhD candidate in Entomology at Cornell University. His research interests are taxonomy, systematics, and evolution of Drosophilidae (Diptera), with a focus on natural populations. He integrates field collections and taxonomy with phylogenetic inference to study Drosophilidae diversification through biogeographic patterns, evolution of morphological traits, and the formation of new species. His goal is to obtain a detailed overview of the diversification process, from population divergence to clade diversification, while gaining insights on the driving forces leading their evolution.
+Augusto Santos Rampasso is broadly interested in understanding the **mechanisms that produced the extraordinary diversity of life on Earth**. During his PhD in Patrick O’Grady’s Lab at Cornell University, Augusto found the ideal system for this research: the **Hawaiian Drosophilidae**. This group comprises an estimated 1,000 species that rapidly diversified in one of the most isolated archipelagos in the world. Most species are single-island endemics that exhibit striking morphological variation, exceeding that found on the mainland, as well as high ecological specialization. As a postdoc in the Bernard Kim Lab at Princeton University, Augusto leads a large-scale project that integrates **field collections and traditional morphology-based taxonomy with modern genomic techniques**, with the aim of sequencing all species within this clade. Ultimately, he hopes to understand the **genomic mechanisms and evolutionary processes** that produced one of the most remarkable adaptive radiations in nature.

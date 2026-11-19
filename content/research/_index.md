@@ -1,4 +1,4 @@
 ---
-title: Research Experience
+title: Research
 view: article-grid
 ---
