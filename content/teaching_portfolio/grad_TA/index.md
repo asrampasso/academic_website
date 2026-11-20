@@ -15,7 +15,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Spring 2025
 #### Investigative Biology Laboratory (BIOG 1500)
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2025S_BIOG1500.pdf)
  - 430 students.
  - Interdepartmental Core Biology Course, Cornell University.
@@ -23,7 +22,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Fall 2024
 #### Investigative Biology Laboratory (BIOG 1500)
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2024F_BIOG1500.pdf)
  - 430 students.
  - Interdepartmental Core Biology Course, Cornell University.
@@ -31,7 +29,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Fall 2023
 #### Plagues and People
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2023F_PnP.pdf)
  - 191 students. 
  - Department of Entomology, Cornell University. 
@@ -39,7 +36,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Fall 2022
 #### Insect Biology
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2022F_IB.pdf)
  - 34 students. 
  - Department of Entomology, Cornell University. 
@@ -47,7 +43,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Spring 2022
 #### Alien Empire: The Bizarre Biology of Bugs
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2022S_AE.pdf)
  - 110 students.
  - Department of Entomology, Cornell University. 
@@ -55,7 +50,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Fall 2020
 #### Honey Bees: Their intriguing biology and interactions with humans through the ages
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2020F_HB.pdf)
  - 186 students. 
  - Department of Entomology, Cornell University. 
@@ -63,7 +57,6 @@ I served as a Graduate Teaching Assistant at Cornell University for seven course
 
 ## Spring 2020
 #### Model-Based Phylogenetics and Hypothesis Testing
- - Role: Graduate Teaching Assistant.
  - [Course details and student evaluations.](/teaching_portfolio/grad_TA/2020S_MBP.pdf)
  - 21 students. 
  - Department of Entomology, Cornell University.
