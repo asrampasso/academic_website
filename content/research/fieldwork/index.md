@@ -46,8 +46,6 @@ Field collections are the foundation of my research on Drosophilidae. Most of my
 - **Puu Makaala Natural Area Reserve** (October 2025, December 2025).
 - **Upper Waiakea Forest Reserve** (October 2025, December 2025).
 
----
-
 <hr style="border: 0; border-top: 6px double #999;">
 
 ## Continental US
@@ -87,8 +85,6 @@ Field collections are the foundation of my research on Drosophilidae. Most of my
 - **Tucson**( August and September 2021).
 - **Sedona** (August and September 2021).
 - **Flagstaff** (August and September 2021).
-
----
 
 <hr style="border: 0; border-top: 6px double #999;">
 
