@@ -40,15 +40,17 @@ organizations:
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:as3928@cornell.edu
+  url: mailto:as1094@princeton.edu
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=6vsla7EAAAAJ&hl=en
+- icon: academicons/researchgate
+  url: https://www.researchgate.net/profile/Augusto-Santos-Rampasso
+- icon: academicons/orcid
+  url: https://orcid.org/0000-0003-4857-9595
 - icon: brands/github
   url: https://github.com/asrampasso
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/augusto-santos-rampasso
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/citations?user=6vsla7EAAAAJ&hl=en
-- icon: academicons/orcid
-  url: https://orcid.org/0000-0003-4857-9595
 
 role: Postdoctoral Researcher
 
