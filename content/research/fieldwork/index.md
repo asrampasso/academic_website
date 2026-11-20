@@ -23,7 +23,7 @@ Field collections are the foundation of my research on Drosophilidae. Most of my
 ### Kauai
 ![2025_10_Kauai](/research/fieldwork/2025_10_Kauai.jpeg)
 - **Kokee State Park** (October 2025 and May 2026).
-2025_10_Kauai.jpeg
+
 ---
 
 ### Oahu
