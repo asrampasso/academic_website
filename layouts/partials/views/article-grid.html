@@ -16,11 +16,11 @@
   {{ with $resource }}
   {{ $image := "" }}
   {{if $fill_image}}
-    {{ $image = .Fill (printf "960x540 %s" $anchor) }}
+    {{ $image = .Fill (printf "1600x900 %s" $anchor) }}
   {{else}}
-    {{ $image = .Fit (printf "960x540 %s" $anchor) }}
+    {{ $image = .Fit (printf "1600x900 %s" $anchor) }}
   {{end}}
-  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp q90" }}{{ end }}
   <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
 
     <a
