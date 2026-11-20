@@ -39,6 +39,7 @@ Field collections are the foundation of my research on Drosophilidae. Most of my
 ---
 
 ### Big Island
+![2020_Big_Island.jpg](/research/fieldwork/2020_Big_Island.jpg)
 - **Hawaii Volcanoes National Park** (January 2020, October 2025, December 2025).
 - **Puu Makaala Natural Area Reserve** (October 2025, December 2025).
 - **Upper Waiakea Forest Reserve** (October 2025, December 2025).
@@ -52,6 +53,7 @@ Field collections are the foundation of my research on Drosophilidae. Most of my
 ---
 
 ### California
+![2025_California](/research/fieldwork/2025_California.jpg)
 - **Salt Point State Park** (July 2025).
 - **Jasper Ridge Biological Preserve** (July 2025).
 
