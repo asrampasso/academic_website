@@ -1,0 +1,33 @@
+{{/* Custom: instead of "share this page" buttons, show contact/profile links taken from the author profile (content/authors/admin/_index.md). */}}
+{{/* To change what is shown or its order, edit the $wanted list below. Hide on one page with `share: false` in its front matter. */}}
+{{ if ne .Params.share false }}
+{{ $author := site.GetPage "/authors/admin" }}
+{{ $wanted := slice
+  (dict "icon" "at-symbol" "title" "Email")
+  (dict "icon" "academicons/google-scholar" "title" "Google Scholar")
+  (dict "icon" "academicons/researchgate" "title" "ResearchGate")
+  (dict "icon" "brands/linkedin" "title" "LinkedIn")
+}}
+{{ with $author }}
+{{ $profiles := .Params.profiles }}
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  {{ range $wanted }}
+    {{ $icon := .icon }}
+    {{ $title := .title }}
+    {{ range where $profiles "icon" $icon }}
+      {{ $target := "" }}
+      {{ if not (strings.HasPrefix .url "mailto:") }}{{ $target = `target="_blank" rel="noopener"` }}{{ end }}
+      <a
+        {{ $target | safeHTMLAttr }}
+        class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+        href="{{ .url | safeURL }}"
+        title="{{ $title }}"
+        aria-label="{{ $title }}"
+      >
+        {{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"height: 1em;\"") }}
+      </a>
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}
