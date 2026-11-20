@@ -5,6 +5,8 @@ date: "2026-11-17"
 
 title: "Fieldwork Experience"
 
+image:
+  placement: 2
 summary: A summary of the places and dates where I have collected Drosophilidae for my research.
 ---
 
