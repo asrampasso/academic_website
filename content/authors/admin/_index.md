@@ -34,7 +34,7 @@ languages:
   percent: 50
 
 organizations:
-- name: Ecology and Evolutionary Biology Department, Princeton University
+- name: Department of Ecology and Evolutionary Biology, Princeton University
   url: https://cals.cornell.edu/entomology
   
 profiles:
